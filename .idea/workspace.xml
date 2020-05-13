@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="Czech version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bUSr9Nj4apU6jGg8UvyzC0vqGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.labyrint">
+    <configuration name="labyrint" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.mafagafogigante.labyrint.game.Game" />
+      <module name="labyrint" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labyrint" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.labyrint" />
+      <item itemvalue="Maven.labyrint" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="$USER_HOME$/Downloads" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/Downloads/cs.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="" />
+      <created>1588685374354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588685374354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Czech version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Czech version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="193" key="#Project_Structure" timestamp="1588695620982">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="468" y="193" key="#Project_Structure/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588695620982" />
+    <state x="251" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589293268784">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="323" y="445" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589274540331" />
+    <state x="251" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/40.23.1400.877@40.23.1400.877" timestamp="1589293268784" />
+    <state x="672" y="420" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588685633755">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="672" y="420" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588685633755" />
+    <state x="521" y="370" width="1141" height="721" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588695471029">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="521" y="370" width="1141" height="721" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588695471029" />
+    <state x="768" y="373" key="FileChooserDialogImpl" timestamp="1588686606857">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="768" y="373" key="FileChooserDialogImpl/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588686606857" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1589318055233">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1838" height="194" key="GridCell.Tab.0.bottom/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189619" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1589318055232">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1838" height="194" key="GridCell.Tab.0.center/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189618" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1589318055232">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1838" height="194" key="GridCell.Tab.0.left/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189617" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1589318055233">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1838" height="194" key="GridCell.Tab.0.right/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189618" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
+    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor" timestamp="1589363781404">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363781404" />
+    <state x="40" y="23" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1589300977629" />
+    <state x="428" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589314779150">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="428" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589314779150" />
+    <state x="329" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/40.23.1400.877@40.23.1400.877" timestamp="1589296074955" />
+    <state x="781" y="528" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589363525844">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="781" y="528" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363525844" />
+    <state x="114" y="23" width="1230" height="685" key="find.popup" timestamp="1589317326081">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="553" y="90" width="1052" height="919" key="find.popup/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315177580" />
+    <state x="114" y="23" width="1230" height="685" key="find.popup/40.23.1400.877@40.23.1400.877" timestamp="1589317326081" />
+    <state x="782" y="461" key="git4idea.rebase.GitRebaseDialog" timestamp="1589363627758">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="782" y="461" key="git4idea.rebase.GitRebaseDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363627758" />
+    <state x="802" y="507" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589363640379">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="802" y="507" key="git4idea.remote.GitConfigureRemotesDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363640379" />
+    <state x="818" y="409" key="svn.repositoryBrowser" timestamp="1589355939654">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="818" y="409" key="svn.repositoryBrowser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589355939654" />
+  </component>
+</project>

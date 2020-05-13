@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/UnlockedAchievement.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/AchievementTracker.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/BattleStatisticsQuery.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/BattleComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/comparators/DateUnlockedAchievementComparator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/comparators/NameUnlockedAchievementComparator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/comparators/UnlockedAchievementComparators.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/BattleStatisticsRequirement.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/AchievementStoreFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/AchievementStore.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/AchievementTrackerWriter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/AchievementBuilder.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/Achievement.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/achievements/ExplorationComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Tutorial.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Matches.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/StopWatch.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Table.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Utils.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/library/AutomaticShuffledRange.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/library/Libraries.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/library/AutomaticShuffledStringLibrary.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/library/PoetryLibrary.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/library/Poem.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Selectable.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/NonNegativeInteger.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/CircularList.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/SystemInformation.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Messenger.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/CounterMap.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/DungeonMath.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/Percentage.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/ColumnAlignment.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/util/ShuffledRange.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Integrity.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/DamageAmount.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/WeaponEnchantmentPreset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/LightSource.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Preset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Enchantment.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/EnchantmentFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Damage.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/WeaponEnchantment.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Luminosity.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/TagSet.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/DamageType.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/CreatureInventory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/LocationInventory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemPresetFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/EnchantmentRules.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemPreset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/BookComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/Rarity.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/LimitedInventory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/FoodComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemIntegrity.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/BaseInventory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/WeaponComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemUsageEffect.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/BreakageHandler.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ClockComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/UniquenessRestrictions.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/DrinkableComponent.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/ItemFactoryRestrictions.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/JsonItemPresetFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/IntegrityState.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/items/Item.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/OrcAttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Hero.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/ColoredString.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Creature.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CreaturePreset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/AttackAlgorithmWriter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/HealthState.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Drop.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CreatureFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/JsonCreaturePresetFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Walker.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Effect.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/DateOfBirthGenerator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/BattleLog.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/DeathHandler.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CorpseItemPresetFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/BatAttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/EffectTemplate.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CritterAttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/HeroSpellcaster.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/AttackAlgorithmId.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/DamageHandler.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Spellcaster.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/DummyAttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/DummyBattleLog.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Condition.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/HeroUtils.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/SimpleAttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/EffectFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Observer.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/AttackAlgorithms.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/SimpleBattleLog.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CreatureHealth.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/CreaturePresetFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/Dropper.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/creatures/AttackAlgorithm.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Entity.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/entity/Weight.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/Duration.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/DungeonTimeUnit.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/TimeStringBuilder.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/Date.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/date/DungeonTimeParser.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/TagSetParser.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/DungeonFilenameFilters.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Split.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Writer.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Loader.java">
+<error line="24" severity="warning" message="Using the &apos;.*&apos; form of import should be avoided - java.util.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+<error line="65" column="37" severity="warning" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Sleeper.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/ResourceStreamFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/PoemWriter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/FileLastModifiedComparator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/DungeonCharset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Converter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/DungeonResource.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/SavesTableWriter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/JsonObjectFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/ResourceNameResolver.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/Version.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/io/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/VisibilityCriterion.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/SkyFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/Sky.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/WeatherConditionVisibilityCriterion.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/Weather.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/WeatherCondition.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/TimeVisibilityCriterion.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/LuminosityVisibilityCriterion.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/SimpleAstronomicalBody.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/VisibilityCriteria.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/AstronomicalBody.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/world/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/wiki/Wiki.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/wiki/WikiSearcher.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/wiki/Article.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/wiki/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/ColoredString.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/LocationPresetStore.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/LocationDescription.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/NameFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/BaseName.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Id.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Numeral.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/SpawnerPreset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/World.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/River.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Point.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/QuantificationMode.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/ExpandableIntegerSet.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Writable.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Random.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Examinable.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/LocationPreset.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/QualifiedName.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Engine.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/InstanceInformation.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Game.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/DungeonString.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/MinimumBoundingRectangle.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Location.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Name.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/BlockedEntrances.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/GameState.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/WorldGenerator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/DungeonDistributor.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/DungeonCreator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Direction.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/RiverGenerator.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/Spawner.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/game/PartOfDay.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/GroupJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/IdJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/IdSetJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/EnumJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/PeriodJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/FixedArrayJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/ArraySizeJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/ArrayJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/StringJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/UppercaseStringJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/BoundIntegerJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/NumberJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/BoundDoubleJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/IntegerJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/ObjectJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/OptionalJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/PercentageJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/DoubleJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/VariableArrayJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/EmptyRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/StringLengthJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/BooleanJsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/rules/JsonRuleFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/schema/JsonRule.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/WorldMapSymbolFactory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/WorldMapSymbol.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/WorldMapWriter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/WorldMap.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/IterationLimits.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/map/WorldMapLegend.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/gui/SwappingStyledDocument.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/gui/SharedConstants.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/gui/DungeonScrollBarUi.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/gui/WritingSpecifications.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/gui/GameWindow.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/spells/SpellDefinition.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/spells/Spell.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/spells/SpellData.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/CommandSet.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/CommandHistory.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/IssuedCommandProcessor.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/IssuedCommand.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/Command.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/CommandDescription.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/DebugWaitParser.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/CommandSets.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/CommandLimits.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/IssuedCommandEvaluation.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/PreparedIssuedCommand.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/StringDistanceMetrics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/commands/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/logging/DungeonFormatter.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/logging/DungeonLogger.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/logging/package-info.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/ExplorationStatisticsEntry.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/HeroStatistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/BattleStatistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/Statistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/TypeOfCauseOfDeath.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/CommandStatistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/CauseOfDeath.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/Record.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/BattleRecord.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/WorldStatistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java/org/mafagafogigante/labyrint/stats/ExplorationStatistics.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/achievements/AchievementStoreFactoryTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/achievements/AchievementTrackerTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/achievements/AchievementStoreTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/achievements/AchievementTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/StopWatchTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/ShuffledRangeTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/CircularListTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/TableTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/DungeonMathTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/MatchesTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/PercentageTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/util/SystemInformationTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/WeightTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/items/UniquenessRestrictionsTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/creatures/DateOfBirthGeneratorTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/creatures/SimpleBattleLogTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/creatures/CorpseItemPresetFactoryTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/entity/IntegrityTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/date/DateTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/date/DurationTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/date/DungeonTimeParserTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/HintsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/ItemsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/ResourcesTypeTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/LocationsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/AchievementsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/TutorialJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/ResourcesFolderTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/ConverterTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/WikiJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/SplitTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/PrefaceJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/DreamsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/PoemsJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/io/CreaturesJsonFileTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/WeatherConditionVisibilityCriterionTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/WeatherConditionTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/VisibilityCriteriaTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/SimpleAstronomicalBodyTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/WeatherTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/world/TimeVisibilityCriterionTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/PartOfDayTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/DungeonDistributorTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/ExpandableIntegerSetTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/RandomTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/VersionTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/SpawnerPresetTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/DirectionTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/DungeonStringTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/IdTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/LocationPresetStoreTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/game/PointTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/BoundIntegerJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/OptionalJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/BooleanJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/EnumJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/DoubleJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/ObjectJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/StringUppercaseJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/NumberJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/StringLengthJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/IntegerJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/StringJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/ArrayJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/FixedArrayJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/GroupJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/VariableArrayJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/PercentageJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/IdJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/BoundDoubleJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/ArraySizeJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/schema/rules/PeriodJsonRuleTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/gui/SwappingStyledDocumentTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/commands/CommandSetTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/commands/IssuedCommandTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/commands/StringDistanceMetricsTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/stats/RecordTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java/org/mafagafogigante/labyrint/stats/HeroStatisticsTest.java">
+</file>
+<file name="/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/resources-filtered/project.properties">
+</file>
+</checkstyle>

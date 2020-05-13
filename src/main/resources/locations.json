@@ -1,0 +1,1297 @@
+{
+  "locations": [
+    {
+      "id": "STONE_BRIDGE",
+      "type": "BRIDGE",
+      "name": {
+        "singular": "Kamenný most"
+      },
+      "color": [
+        160,
+        160,
+        160
+      ],
+      "symbol": "=",
+      "info": "Jedná se o široký most z kamenných bloků. Zdá se, že je odolný vůči počasí i velkým hmotnostem.",
+      "blobSize": 0,
+      "lightPermittivity": 1,
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "TOME_OF_HEAL",
+          "probability": 0.15
+        },
+        {
+          "id": "FLAIL",
+          "probability": 0.2
+        }
+      ],
+      "blockedEntrances": [
+        "U",
+        "N",
+        "D",
+        "S"
+      ]
+    },
+    {
+      "id": "TIMBER_BRIDGE",
+      "type": "BRIDGE",
+      "name": {
+        "singular": "Dřevěný most"
+      },
+      "color": [
+        153,
+        76,
+        0
+      ],
+      "symbol": "=",
+      "info": "Jedná se o jednoduchý dřevěný most vyrobený ze dřevěných trámů a dřevěných prken. Je v dobrém stavu, ale když po něm přejdete, vrže, a pravděpodobně by se zhroutil, kdyby na něj najela příliš velká váha.",
+      "blobSize": 0,
+      "lightPermittivity": 1,
+      "spawners": [
+        {
+          "id": "HARPY",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 24
+        }
+      ],
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "TOME_OF_UNVEIL",
+          "probability": 0.15
+        },
+        {
+          "id": "DAGGER",
+          "probability": 0.2
+        },
+        {
+          "id": "CORVUS_EDGE",
+          "probability": 0.1
+        }
+      ],
+      "blockedEntrances": [
+        "U",
+        "N",
+        "D",
+        "S"
+      ]
+    },
+    {
+      "id": "LOG_BRIDGE",
+      "type": "BRIDGE",
+      "name": {
+        "singular": "Most z kmenů stromů"
+      },
+      "color": [
+        153,
+        76,
+        0
+      ],
+      "symbol": "-",
+      "info": "Je to prostě dlouhý dřevěný kmen zavěšený nad řekou. Má známky hniloby a vypadá to, že je zamořen dřevokazným hmyzem.",
+      "blobSize": 0,
+      "lightPermittivity": 1,
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "STICK",
+          "probability": 0.3
+        },
+        {
+          "id": "TOME_OF_FINGER_OF_DEATH",
+          "probability": 0.1
+        }
+      ],
+      "blockedEntrances": [
+        "U",
+        "N",
+        "D",
+        "S"
+      ]
+    },
+    {
+      "id": "RIVER",
+      "type": "RIVER",
+      "name": {
+        "singular": "Řeka"
+      },
+      "color": [
+        51,
+        51,
+        255
+      ],
+      "symbol": "|",
+      "info": "Toto je široký proud modré řeky.",
+      "blobSize": 0,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "E",
+        "D",
+        "W"
+      ]
+    },
+    {
+      "id": "DUNGEON_ENTRANCE",
+      "type": "DUNGEON_ENTRANCE",
+      "name": {
+        "singular": "Vstup do sklepení"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "L",
+      "info": "Před vámi se otevírá poměrně velká pasáž a vede dolů, což vypadá jako labyrint.",
+      "blobSize": 0,
+      "lightPermittivity": 0.9,
+      "blockedEntrances": [
+        "U"
+      ],
+      "spawners": [
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "HUGE_SPIDER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "SWORD",
+          "probability": 0.5
+        },
+        {
+          "id": "HISTORY_OF_THE_THIRD_ERA",
+          "probability": 0.05
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": "DUNGEON_STAIRWAY",
+      "type": "DUNGEON_STAIRWAY",
+      "name": {
+        "singular": "Schodiště labyrintu"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "S",
+      "info": "Sada kamenných schodů.",
+      "blobSize": 0,
+      "lightPermittivity": 0.2,
+      "blockedEntrances": [
+        "N",
+        "E",
+        "S",
+        "W"
+      ]
+    },
+    {
+      "id": "DUNGEON_ROOM_1",
+      "type": "DUNGEON_ROOM",
+      "name": {
+        "singular": "Místnost labyrintu"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "M",
+      "info": "Ponurá a matně osvětlená kobka se stěnami z kamene.",
+      "blobSize": 0,
+      "lightPermittivity": 0.0,
+      "blockedEntrances": [
+      ],
+      "spawners": [
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "HUGE_SPIDER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "TORCH",
+          "probability": 1.0
+        },
+        {
+          "id": "ETHEREAL_FLAIL",
+          "probability": 0.05
+        },
+        {
+          "id": "POTION_OF_THE_WARRIOR",
+          "probability": 0.25
+        },
+        {
+          "id": "TOME_OF_PERCEIVE",
+          "probability": 0.05
+        },
+        {
+          "id": "TOME_OF_DISPLACE",
+          "probability": 0.05
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": "DUNGEON_ROOM_2",
+      "type": "DUNGEON_ROOM",
+      "name": {
+        "singular": "Místnost labyrintu"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "M",
+      "info": "Ponurá a temná kobka se stěnami z kamene.",
+      "blobSize": 0,
+      "lightPermittivity": 0.0,
+      "blockedEntrances": [
+      ],
+      "spawners": [
+        {
+          "id": "SKELETON",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 12
+        },
+        {
+          "id": "ZOMBIE",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "TORCH",
+          "probability": 0.8
+        },
+        {
+          "id": "TORCH",
+          "probability": 0.5
+        },
+        {
+          "id": "AXE",
+          "probability": 0.05
+        },
+        {
+          "id": "TOME_OF_FINGER_OF_DEATH",
+          "probability": 0.05
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": "ANCIENT_DUNGEON_ROOM",
+      "type": "DUNGEON_ROOM",
+      "name": {
+        "singular": "Starověká kobka"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "M",
+      "info": "Ponurá a matně osvětlená kobka s několika hieroglyfy vytesanými na podlaze. Uprostřed místnosti je kamenný podstavec, jehož účel vám není znám.",
+      "blobSize": 0,
+      "lightPermittivity": 0.0,
+      "blockedEntrances": [
+      ],
+      "spawners": [
+        {
+          "id": "RADIANT_GHOUL",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 12
+        },
+        {
+          "id": "GHOUL",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 10
+        }
+      ],
+      "items": [
+        {
+          "id": "TORCH",
+          "probability": 1.0
+        },
+        {
+          "id": "TOME_OF_PERCEIVE",
+          "probability": 0.05
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": "DUNGEON_CORRIDOR",
+      "type": "DUNGEON_CORRIDOR",
+      "name": {
+        "singular": "Chodba labyrintu"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "=",
+      "info": "Temná chodba s kamennými zdmi.",
+      "blobSize": 0,
+      "lightPermittivity": 0.0,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "HUGE_SPIDER",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "TORCH",
+          "probability": 1.0
+        },
+        {
+          "id": "HEALING_POTION",
+          "probability": 0.6
+        },
+        {
+          "id": "HEALING_DRAUGHT",
+          "probability": 0.4
+        },
+        {
+          "id": "GLASS_SWORD",
+          "probability": 0.2
+        },
+        {
+          "id": "RED_ONYX_WATCH",
+          "probability": 0.1
+        },
+        {
+          "id": "TOME_OF_PERCEIVE",
+          "probability": 0.05
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.3
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": "CLEARING",
+      "type": "LAND",
+      "name": {
+        "singular": "Travnatá mýtina"
+      },
+      "color": [
+        102,
+        204,
+        0
+      ],
+      "symbol": "T",
+      "info": "Je to široká a otevřená travnatá plocha.",
+      "blobSize": 2,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "FOX",
+          "population": {
+            "minimum": 2,
+            "maximum": 6
+          },
+          "delay": 4
+        },
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "RABBIT",
+          "population": {
+            "minimum": 2,
+            "maximum": 10
+          },
+          "delay": 1
+        },
+        {
+          "id": "HUGE_SPIDER",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 4
+        },
+        {
+          "id": "COW",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 20
+        },
+        {
+          "id": "FARMER",
+          "population": {
+            "minimum": 1,
+            "maximum": 3
+          },
+          "delay": 18
+        }
+      ],
+      "items": [
+        {
+          "id": "HISTORY_OF_THE_THIRD_ERA",
+          "probability": 0.025
+        },
+        {
+          "id": "PAGE_FROM_VOLUND_LOKE_FREY_S_DIARY",
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": "DESERT",
+      "type": "LAND",
+      "name": {
+        "singular": "Poušť"
+      },
+      "color": [
+        255,
+        153,
+        51
+      ],
+      "symbol": "P",
+      "info": "Tohle je oblast velmi suché půdy, kde se zdá, že životní podmínky jsou pro většinu rostlin a živočichů nepřátelské.",
+      "blobSize": 50,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "BOAR",
+          "population": {
+            "minimum": 1,
+            "maximum": 5
+          },
+          "delay": 8
+        },
+        {
+          "id": "GIANT_RAT",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 2
+        },
+        {
+          "id": "SNAKE",
+          "population": {
+            "minimum": 1,
+            "maximum": 5
+          },
+          "delay": 4
+        },
+        {
+          "id": "ZOMBIE",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "DAGGER",
+          "probability": 0.15
+        },
+        {
+          "id": "MACE",
+          "probability": 0.1
+        },
+        {
+          "id": "SPEAR",
+          "probability": 0.1
+        },
+        {
+          "id": "STAFF",
+          "probability": 0.2
+        },
+        {
+          "id": "SWORD",
+          "probability": 0.25
+        },
+        {
+          "id": "TOME_OF_PERCEIVE",
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": "FOREST",
+      "type": "LAND",
+      "name": {
+        "singular": "Les"
+      },
+      "color": [
+        0,
+        153,
+        0
+      ],
+      "symbol": "L",
+      "info": "Je to ta část země, kde rostou vysoké stromy a zdá se, že je zde hodně zvířat. Je obtížné vidět do dálky kvůli vysoké hustotě stromů. Jedinou věc, kterou uvidíte, když se podíváte nahoru, je koruna stromů.",
+      "blobSize": 25,
+      "lightPermittivity": 0.7,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "BEAR",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 12
+        },
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 1,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "FRUIT_BAT",
+          "population": {
+            "minimum": 1,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "RABBIT",
+          "population": {
+            "minimum": 4,
+            "maximum": 12
+          },
+          "delay": 1
+        },
+        {
+          "id": "WHITE_TIGER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 24
+        }
+      ],
+      "items": [
+        {
+          "id": "AXE",
+          "probability": 0.2
+        },
+        {
+          "id": "POCKET_WATCH",
+          "probability": 0.03
+        },
+        {
+          "id": "SWORD",
+          "probability": 0.15
+        },
+        {
+          "id": "TOME_OF_HEAL",
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": "YOUNG_FOREST",
+      "type": "LAND",
+      "name": {
+        "singular": "Mladý les"
+      },
+      "color": [
+        0,
+        127,
+        0
+      ],
+      "symbol": "L",
+      "info": "Místo, kde roste hodně mladých stromů a zdá se, že je zde hodně zvířat. Koruna stromů není příliš vysoka nad vaší nad hlavou.",
+      "blobSize": 20,
+      "lightPermittivity": 0.85,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 2
+        },
+        {
+          "id": "FRUIT_BAT",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 2
+        },
+        {
+          "id": "RABBIT",
+          "population": {
+            "minimum": 4,
+            "maximum": 10
+          },
+          "delay": 1
+        },
+        {
+          "id": "WHITE_TIGER",
+          "population": {
+            "minimum": 1,
+            "maximum": 1
+          },
+          "delay": 24
+        },
+        {
+          "id": "BOAR",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 10
+        },
+        {
+          "id": "FOX",
+          "population": {
+            "minimum": 1,
+            "maximum": 4
+          },
+          "delay": 6
+        },
+        {
+          "id": "MERCHANT",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 36
+        }
+      ],
+      "items": [
+        {
+          "id": "AXE",
+          "probability": 0.05
+        },
+        {
+          "id": "WRIST_WATCH",
+          "probability": 0.05
+        },
+        {
+          "id": "TOME_OF_VEIL_OF_DARKNESS",
+          "probability": 0.05
+        },
+        {
+          "id": "DAGGER_OF_INFINITY",
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": "GRAVEYARD",
+      "type": "LAND",
+      "name": {
+        "singular": "Hřbitov"
+      },
+      "color": [
+        192,
+        192,
+        192
+      ],
+      "symbol": "H",
+      "info": "Je to děsivé místo, kde řady náhrobků stojí vzpřímeně mlčky v řadách zleva doprava, vpředu i vzadu, jako moře mrtvých. Některé z těchto náhrobků jsou položeny na zemi, jako by je něco převrátilo. Zdá se, že se všechny rozpadaly a zvětrávaly po staletí, a většina z nich je zarostlá a špinavá, a zdá se, že se k nim dokonce i jejich truchlící připojili pod zem do hlíny.",
+      "blobSize": 1,
+      "lightPermittivity": 0.9,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "RADIANT_GHOUL",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 18
+        },
+        {
+          "id": "BAT",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 6
+        },
+        {
+          "id": "ORC",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 2
+        },
+        {
+          "id": "SKELETON",
+          "population": {
+            "minimum": 1,
+            "maximum": 4
+          },
+          "delay": 12
+        },
+        {
+          "id": "ZOMBIE",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 4
+        }
+      ],
+      "items": [
+        {
+          "id": "LONGSWORD",
+          "probability": 0.15
+        },
+        {
+          "id": "TOME_OF_PERCEIVE",
+          "probability": 0.1
+        },
+        {
+          "id": "WRIST_WATCH",
+          "probability": 0.025
+        },
+        {
+          "id": "THE_SUN_BLADE",
+          "probability": 0.025
+        }
+      ]
+    },
+    {
+      "id": "MEADOW",
+      "type": "LAND",
+      "name": {
+        "singular": "Louka"
+      },
+      "color": [
+        0,
+        204,
+        0
+      ],
+      "symbol": "K",
+      "info": "Louka je zarostlá především trávou. Zdá se, že tato otevřená slunná oblast přitahuje a podporuje flóru a faunu, která se za jiných podmínek nemohla rozvíjet.",
+      "blobSize": 2,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "WHITE_TIGER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 24
+        },
+        {
+          "id": "WOLF",
+          "population": {
+            "minimum": 1,
+            "maximum": 5
+          },
+          "delay": 12
+        },
+        {
+          "id": "FARMER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 24
+        },
+        {
+          "id": "TRAVELER",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 48
+        }
+      ],
+      "items": [
+        {
+          "id": "STONE",
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": "POND",
+      "type": "LAND",
+      "name": {
+        "singular": "Rybník"
+      },
+      "color": [
+        0,
+        204,
+        204
+      ],
+      "symbol": "R",
+      "info": "Toto je poměrně malá část stojaté vody v proláklině. Zdá se, že vzduch je čerstvější a zdá se, že si tu některá divoká zvířata užívají.",
+      "blobSize": 1,
+      "lightPermittivity": 0.95,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "CROCODILE",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 6
+        },
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 1,
+            "maximum": 5
+          },
+          "delay": 2
+        },
+        {
+          "id": "GREEN_IGUANA",
+          "population": {
+            "minimum": 2,
+            "maximum": 2
+          },
+          "delay": 32
+        },
+        {
+          "id": "MERCHANT",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 36
+        }
+      ],
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "SPEAR",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": "SAVANNAH",
+      "type": "LAND",
+      "name": {
+        "singular": "Savana"
+      },
+      "color": [
+        204,
+        204,
+        0
+      ],
+      "symbol": "S",
+      "info": "Oblast, na které jsou stromy dostatečně rozmístěny tak, aby se obloha nezavřela. Otevřené nebe umožňuje, aby proniklo dostatek světla na zem a aby podpořilo nepřerušenou bylinnou vrstvu tvořenou především trávami. Všimnete si, že tyto stromy jsou pravidelně rozmístěny, na rozdíl od stromů lesa.",
+      "blobSize": 5,
+      "lightPermittivity": 0.95,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "BOAR",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 8
+        },
+        {
+          "id": "SNAKE",
+          "population": {
+            "minimum": 1,
+            "maximum": 4
+          },
+          "delay": 4
+        },
+        {
+          "id": "WHITE_TIGER",
+          "population": {
+            "minimum": 1,
+            "maximum": 3
+          },
+          "delay": 24
+        },
+        {
+          "id": "KOMODO_DRAGON",
+          "population": {
+            "minimum": 1,
+            "maximum": 3
+          },
+          "delay": 12
+        }
+      ],
+      "items": [
+        {
+          "id": "AXE",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": "SWAMP",
+      "type": "LAND",
+      "name": {
+        "singular": "Bažina"
+      },
+      "color": [
+        153,
+        153,
+        0
+      ],
+      "symbol": "B",
+      "info": "Je to oblast nízko položené, nekultivované půdy, kde se shromažďuje voda. Mlžná voda, do které vstoupíte, je mělká a stojatá.",
+      "blobSize": 10,
+      "lightPermittivity": 0.8,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "CROCODILE",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 6
+        },
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 2,
+            "maximum": 4
+          },
+          "delay": 2
+        },
+        {
+          "id": "SNAKE",
+          "population": {
+            "minimum": 1,
+            "maximum": 6
+          },
+          "delay": 4
+        }
+      ],
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "CLUB",
+          "probability": 0.4
+        },
+        {
+          "id": "CYAN_FUNGUS",
+          "probability": 0.5
+        },
+        {
+          "id": "AMBER_FUNGUS",
+          "probability": 0.5
+        },
+        {
+          "id": "TOXIC_AMBER_FUNGUS",
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": "BARREN",
+      "type": "LAND",
+      "name": {
+        "singular": "Pustina"
+      },
+      "color": [
+        225,
+        225,
+        0
+      ],
+      "symbol": "P",
+      "info": "Je to oblast tundry. Něco tady brání růstu stromů a velké vegetaci, máte podezření, že je to jakási kletba.",
+      "blobSize": 10,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "GIANT_RAT",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 2
+        },
+        {
+          "id": "SNAKE",
+          "population": {
+            "minimum": 2,
+            "maximum": 3
+          },
+          "delay": 4
+        },
+        {
+          "id": "HUGE_SPIDER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 4
+        },
+        {
+          "id": "KOMODO_DRAGON",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 12
+        },
+        {
+          "id": "TRAVELER",
+          "population": {
+            "minimum": 2,
+            "maximum": 3
+          },
+          "delay": 48
+        }
+      ],
+      "items": [
+        {
+          "id": "STONE",
+          "probability": 0.3
+        },
+        {
+          "id": "TOME_OF_REPAIR",
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": "RIVERSIDE",
+      "type": "RIVERSIDE",
+      "name": {
+        "singular": "Břeh řeky"
+      },
+      "color": [
+        100,
+        250,
+        200
+      ],
+      "symbol": "Ř",
+      "info": "Jedná se o oblast s tekoucí řekou. Zdá se, že řeka se hemží rybami.",
+      "blobSize": 0,
+      "lightPermittivity": 1,
+      "blockedEntrances": [
+        "U",
+        "D"
+      ],
+      "spawners": [
+        {
+          "id": "FROG",
+          "population": {
+            "minimum": 1,
+            "maximum": 3
+          },
+          "delay": 2
+        },
+        {
+          "id": "GREEN_IGUANA",
+          "population": {
+            "minimum": 2,
+            "maximum": 2
+          },
+          "delay": 32
+        },
+        {
+          "id": "TRAVELER",
+          "population": {
+            "minimum": 1,
+            "maximum": 2
+          },
+          "delay": 36
+        }
+      ],
+      "tags": [
+        "FISHABLE"
+      ],
+      "items": [
+        {
+          "id": "STONE",
+          "probability": 0.3
+        },
+        {
+          "id": "SPEAR",
+          "probability": 0.1
+        },
+        {
+          "id": "STICK",
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.1.12' threshold='low' effort='max'><Error></Error><Project><SrcDir>/Users/pplachy/Develops/IdeaProjects/labyrint/src/main/java</SrcDir><SrcDir>/Users/pplachy/Develops/IdeaProjects/labyrint/target/generated-sources/annotations</SrcDir><SrcDir>/Users/pplachy/Develops/IdeaProjects/labyrint/src/test/java</SrcDir></Project></BugCollection>

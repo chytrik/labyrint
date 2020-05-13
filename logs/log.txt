@@ -1,0 +1,1633 @@
+[2020-05-05 15:34:07] (INFO): Loaded 45 achievements.
+[2020-05-05 15:34:07] (INFO): Loaded 21 location presets.
+[2020-05-05 16:43:15] (INFO): Dosažené 45 úspěchy.
+[2020-05-05 16:43:15] (INFO): Loaded 21 location presets.
+[2020-05-05 18:31:47] (INFO): Dosažené 45 úspěchy.
+[2020-05-05 18:31:47] (INFO): Loaded 21 location presets.
+[2020-05-07 12:33:51] (INFO): Dosažené 45 úspěchy.
+[2020-05-07 12:33:51] (INFO): Loaded 21 location presets.
+[2020-05-07 12:35:05] (INFO): Dosažené 45 úspěchy.
+[2020-05-07 12:35:06] (INFO): Loaded 21 location presets.
+[2020-05-07 15:07:11] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-07 15:07:13] (INFO): Finished making the window. Took 2044 ms.
+[2020-05-07 15:07:13] (INFO): Loaded 27 creature presets.
+[2020-05-07 15:07:13] (INFO): Loaded 62 item presets.
+[2020-05-07 15:07:13] (FINE): Added Potato to the inventory of Seth.
+[2020-05-07 15:07:13] (INFO): Loaded 21 location presets.
+[2020-05-07 15:07:13] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-07 15:07:13] (FINE): Added Club to the inventory of Zombie.
+[2020-05-07 15:07:13] (FINE): Added Club to the inventory of Zombie.
+[2020-05-07 15:07:13] (INFO): Signaled the window to start accepting commands.
+[2020-05-07 15:07:18] (INFO): Saved 79.8 KiB in 79 ms.
+[2020-05-07 15:07:18] (INFO): Closing instance. Ran for 6 seconds. Parsed no commands.
+[2020-05-07 15:56:00] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-07 15:56:02] (INFO): Finished making the window. Took 1537 ms.
+[2020-05-07 15:56:37] (INFO): Closing instance. Ran for 36 seconds. Parsed no commands.
+[2020-05-07 16:00:06] (INFO): Dosažené 45 úspěchy.
+[2020-05-07 16:00:07] (INFO): Loaded 21 location presets.
+[2020-05-07 16:04:31] (INFO): Dosažené 45 úspěchy.
+[2020-05-07 16:04:32] (INFO): Loaded 21 location presets.
+[2020-05-12 10:11:49] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 10:11:51] (INFO): Finished making the window. Took 2180 ms.
+[2020-05-12 10:11:52] (INFO): Loaded 27 creature presets.
+[2020-05-12 10:11:52] (INFO): Loaded 62 item presets.
+[2020-05-12 10:11:52] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 10:11:53] (INFO): Loaded 21 location presets.
+[2020-05-12 10:11:53] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 10:11:53] (FINE): Added Orc Sword to the inventory of Orc.
+[2020-05-12 10:11:53] (FINE): Added Orc Sword to the inventory of Orc.
+[2020-05-12 10:11:53] (FINE): Added Enchanted Sword to the inventory of Skeleton.
+[2020-05-12 10:11:53] (FINE): Added Sword to the inventory of Skeleton.
+[2020-05-12 10:11:53] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 10:11:53] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 10:11:53] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 10:12:13] (INFO): Closing instance. Ran for 24 seconds. Parsed no commands.
+[2020-05-12 10:51:19] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 10:51:21] (INFO): Finished making the window. Took 1834 ms.
+[2020-05-12 10:51:23] (INFO): Loaded 27 creature presets.
+[2020-05-12 10:51:23] (INFO): Loaded 62 item presets.
+[2020-05-12 10:51:23] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 10:51:23] (INFO): Loaded 21 location presets.
+[2020-05-12 10:51:23] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 10:51:23] (FINE): Added Enchanted Dagger to the inventory of Traveler.
+[2020-05-12 10:51:23] (FINE): Added Dagger to the inventory of Traveler.
+[2020-05-12 10:51:23] (FINE): Added Dagger to the inventory of Traveler.
+[2020-05-12 10:51:23] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 10:51:34] (FINE): "help": started doInBackGround after 5 ms.
+[2020-05-12 10:51:34] (FINE): "help": started renderTurn after 5 ms.
+[2020-05-12 10:51:34] (FINE): "help": started processInput after 6 ms.
+[2020-05-12 10:51:34] (FINE): "help": finished processInput after 29 ms.
+[2020-05-12 10:51:34] (FINE): "help": finished renderTurn after 29 ms.
+[2020-05-12 10:51:34] (FINE): "help": finished doInBackGround after 30 ms.
+[2020-05-12 10:51:38] (FINE): "veci": started doInBackGround after 0 ms.
+[2020-05-12 10:51:38] (FINE): "veci": started renderTurn after 0 ms.
+[2020-05-12 10:51:38] (FINE): "veci": started processInput after 0 ms.
+[2020-05-12 10:51:38] (FINE): "veci": finished processInput after 4 ms.
+[2020-05-12 10:51:38] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 10:51:38] (FINE): "veci": finished renderTurn after 13 ms.
+[2020-05-12 10:51:38] (FINE): "veci": finished doInBackGround after 13 ms.
+[2020-05-12 10:51:51] (FINE): "help": started doInBackGround after 0 ms.
+[2020-05-12 10:51:51] (FINE): "help": started renderTurn after 0 ms.
+[2020-05-12 10:51:51] (FINE): "help": started processInput after 0 ms.
+[2020-05-12 10:51:51] (FINE): "help": finished processInput after 1 ms.
+[2020-05-12 10:51:51] (FINE): "help": finished renderTurn after 1 ms.
+[2020-05-12 10:51:51] (FINE): "help": finished doInBackGround after 2 ms.
+[2020-05-12 10:51:54] (FINE): "vek": started doInBackGround after 0 ms.
+[2020-05-12 10:51:54] (FINE): "vek": started renderTurn after 0 ms.
+[2020-05-12 10:51:54] (FINE): "vek": started processInput after 1 ms.
+[2020-05-12 10:51:54] (FINE): "vek": finished processInput after 3 ms.
+[2020-05-12 10:51:54] (FINE): "vek": finished renderTurn after 3 ms.
+[2020-05-12 10:51:54] (FINE): "vek": finished doInBackGround after 4 ms.
+[2020-05-12 10:52:06] (FINE): "help": started doInBackGround after 0 ms.
+[2020-05-12 10:52:06] (FINE): "help": started renderTurn after 0 ms.
+[2020-05-12 10:52:06] (FINE): "help": started processInput after 1 ms.
+[2020-05-12 10:52:06] (FINE): "help": finished processInput after 1 ms.
+[2020-05-12 10:52:06] (FINE): "help": finished renderTurn after 1 ms.
+[2020-05-12 10:52:06] (FINE): "help": finished doInBackGround after 2 ms.
+[2020-05-12 10:52:11] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 10:52:11] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 10:52:11] (FINE): "commands": started processInput after 0 ms.
+[2020-05-12 10:52:11] (FINE): "commands": finished processInput after 1 ms.
+[2020-05-12 10:52:11] (FINE): "commands": finished renderTurn after 1 ms.
+[2020-05-12 10:52:11] (FINE): "commands": finished doInBackGround after 2 ms.
+[2020-05-12 10:52:28] (FINE): "cas": started doInBackGround after 0 ms.
+[2020-05-12 10:52:28] (FINE): "cas": started renderTurn after 0 ms.
+[2020-05-12 10:52:28] (FINE): "cas": started processInput after 0 ms.
+[2020-05-12 10:52:28] (FINE): "cas": finished processInput after 1 ms.
+[2020-05-12 10:52:28] (FINE): "cas": finished renderTurn after 1 ms.
+[2020-05-12 10:52:28] (FINE): "cas": finished doInBackGround after 2 ms.
+[2020-05-12 10:52:38] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 10:52:38] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 10:52:38] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 10:52:38] (FINE): "commands": finished processInput after 1 ms.
+[2020-05-12 10:52:38] (FINE): "commands": finished renderTurn after 2 ms.
+[2020-05-12 10:52:38] (FINE): "commands": finished doInBackGround after 2 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": started processInput after 0 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 10:52:46] (FINE): "mapa": finished doInBackGround after 8 ms.
+[2020-05-12 10:59:49] (INFO): Closing instance. Ran for 8 minutes. Parsed 6 commands.
+[2020-05-12 11:12:38] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 11:12:39] (INFO): Finished making the window. Took 1450 ms.
+[2020-05-12 11:12:42] (INFO): Loaded 27 creature presets.
+[2020-05-12 11:12:42] (INFO): Loaded 62 item presets.
+[2020-05-12 11:12:42] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 11:12:42] (INFO): Loaded 21 location presets.
+[2020-05-12 11:12:42] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 11:12:42] (FINE): Added Orc Sword to the inventory of Orc.
+[2020-05-12 11:12:42] (FINE): Added Sword to the inventory of Skeleton.
+[2020-05-12 11:12:42] (FINE): Added Sword to the inventory of Skeleton.
+[2020-05-12 11:12:42] (FINE): Added Sword to the inventory of Skeleton.
+[2020-05-12 11:12:42] (FINE): Added Enchanted Sword to the inventory of Skeleton.
+[2020-05-12 11:12:42] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 11:12:42] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 11:12:42] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 11:12:46] (INFO): Closing instance. Ran for 8 seconds. Parsed no commands.
+[2020-05-12 11:37:49] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 11:37:51] (INFO): Finished making the window. Took 1625 ms.
+[2020-05-12 11:37:54] (INFO): Loaded 27 creature presets.
+[2020-05-12 11:37:54] (INFO): Loaded 62 item presets.
+[2020-05-12 11:37:54] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 11:37:54] (INFO): Loaded 21 location presets.
+[2020-05-12 11:37:54] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 11:37:54] (FINE): Added Enchanted Dagger to the inventory of Merchant.
+[2020-05-12 11:37:54] (FINE): Added Enchanted Dagger to the inventory of Merchant.
+[2020-05-12 11:37:54] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 11:38:35] (FINE): "commands": started doInBackGround after 5 ms.
+[2020-05-12 11:38:35] (FINE): "commands": started renderTurn after 6 ms.
+[2020-05-12 11:38:35] (FINE): "commands": started processInput after 7 ms.
+[2020-05-12 11:38:35] (FINE): "commands": finished processInput after 27 ms.
+[2020-05-12 11:38:35] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 11:38:35] (FINE): "commands": finished renderTurn after 33 ms.
+[2020-05-12 11:38:35] (FINE): "commands": finished doInBackGround after 33 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": started doInBackGround after 9 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": started renderTurn after 9 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": started processInput after 10 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": finished processInput after 18 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": finished renderTurn after 18 ms.
+[2020-05-12 11:38:40] (FINE): "mapa": finished doInBackGround after 19 ms.
+[2020-05-12 11:38:55] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 11:38:55] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 11:38:55] (FINE): "commands": started processInput after 2 ms.
+[2020-05-12 11:38:55] (FINE): "commands": finished processInput after 3 ms.
+[2020-05-12 11:38:55] (FINE): "commands": finished renderTurn after 4 ms.
+[2020-05-12 11:38:55] (FINE): "commands": finished doInBackGround after 5 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": started doInBackGround after 0 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": started renderTurn after 1 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": started processInput after 2 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": finished processInput after 3 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": finished renderTurn after 4 ms.
+[2020-05-12 11:39:08] (FINE): "jdi": finished doInBackGround after 4 ms.
+[2020-05-12 11:39:12] (FINE): "north": started doInBackGround after 0 ms.
+[2020-05-12 11:39:12] (FINE): "north": started renderTurn after 1 ms.
+[2020-05-12 11:39:12] (FINE): "north": started processInput after 2 ms.
+[2020-05-12 11:39:12] (FINE): "north": finished processInput after 4 ms.
+[2020-05-12 11:39:12] (FINE): "north": finished renderTurn after 5 ms.
+[2020-05-12 11:39:12] (FINE): "north": finished doInBackGround after 5 ms.
+[2020-05-12 11:39:19] (FINE): "sever": started doInBackGround after 0 ms.
+[2020-05-12 11:39:19] (FINE): "sever": started renderTurn after 1 ms.
+[2020-05-12 11:39:19] (FINE): "sever": started processInput after 2 ms.
+[2020-05-12 11:39:19] (FINE): "sever": finished processInput after 3 ms.
+[2020-05-12 11:39:19] (FINE): "sever": finished renderTurn after 4 ms.
+[2020-05-12 11:39:19] (FINE): "sever": finished doInBackGround after 4 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": started doInBackGround after 0 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": started renderTurn after 1 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": started processInput after 2 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": finished processInput after 3 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": finished renderTurn after 4 ms.
+[2020-05-12 11:39:23] (FINE): "jdi": finished doInBackGround after 4 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": finished processInput after 5 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": finished renderTurn after 6 ms.
+[2020-05-12 11:39:27] (FINE): "mapa": finished doInBackGround after 7 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": started doInBackGround after 0 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": started renderTurn after 1 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": started processInput after 1 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": finished processInput after 2 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": finished renderTurn after 3 ms.
+[2020-05-12 11:39:32] (FINE): "jdi L": finished doInBackGround after 4 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": started doInBackGround after 0 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": started renderTurn after 1 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": started processInput after 1 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": finished processInput after 2 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": finished renderTurn after 3 ms.
+[2020-05-12 11:39:40] (FINE): "jdi Mladý les": finished doInBackGround after 3 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": finished processInput after 5 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": finished renderTurn after 6 ms.
+[2020-05-12 11:39:43] (FINE): "mapa": finished doInBackGround after 7 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": started doInBackGround after 0 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": started renderTurn after 0 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": started processInput after 1 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": finished processInput after 3 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": finished renderTurn after 3 ms.
+[2020-05-12 11:39:50] (FINE): "rozhlédni": finished doInBackGround after 4 ms.
+[2020-05-12 11:39:55] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 11:39:55] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 11:39:55] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 11:39:55] (FINE): "commands": finished processInput after 3 ms.
+[2020-05-12 11:39:55] (FINE): "commands": finished renderTurn after 3 ms.
+[2020-05-12 11:39:55] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": started doInBackGround after 0 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": started renderTurn after 0 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": started processInput after 1 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": finished processInput after 3 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": finished renderTurn after 4 ms.
+[2020-05-12 11:40:06] (FINE): "podívej": finished doInBackGround after 5 ms.
+[2020-05-12 11:40:26] (FINE): "jdi North": started doInBackGround after 0 ms.
+[2020-05-12 11:40:26] (FINE): "jdi North": started renderTurn after 0 ms.
+[2020-05-12 11:40:26] (FINE): "jdi North": started processInput after 1 ms.
+[2020-05-12 11:40:26] (FINE): Added Dagger to the inventory of Merchant.
+[2020-05-12 11:40:26] (FINE): "jdi North": finished processInput after 4 ms.
+[2020-05-12 11:40:26] (FINE): "jdi North": finished renderTurn after 6 ms.
+[2020-05-12 11:40:26] (FINE): "jdi North": finished doInBackGround after 6 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": started processInput after 0 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": finished processInput after 2 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": finished renderTurn after 2 ms.
+[2020-05-12 11:40:32] (FINE): "mapa": finished doInBackGround after 2 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": started doInBackGround after 0 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": started renderTurn after 1 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": started processInput after 2 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": finished processInput after 3 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": finished renderTurn after 4 ms.
+[2020-05-12 11:40:44] (FINE): "podívej": finished doInBackGround after 4 ms.
+[2020-05-12 11:48:31] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 11:48:31] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 11:48:31] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 11:48:31] (FINE): "commands": finished processInput after 2 ms.
+[2020-05-12 11:48:31] (FINE): "commands": finished renderTurn after 3 ms.
+[2020-05-12 11:48:31] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 11:48:40] (INFO): Closing instance. Ran for 10 minutes. Parsed 15 commands.
+[2020-05-12 11:49:32] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 11:49:33] (INFO): Finished making the window. Took 1355 ms.
+[2020-05-12 11:49:36] (INFO): Loaded 27 creature presets.
+[2020-05-12 11:49:36] (INFO): Loaded 62 item presets.
+[2020-05-12 11:49:36] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 11:49:36] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:49:36] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:49:36] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:49:36] (INFO): Loaded 21 location presets.
+[2020-05-12 11:49:36] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 11:49:36] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 11:50:26] (FINE): "commands": started doInBackGround after 6 ms.
+[2020-05-12 11:50:26] (FINE): "commands": started renderTurn after 12 ms.
+[2020-05-12 11:50:26] (FINE): "commands": started processInput after 12 ms.
+[2020-05-12 11:50:26] (FINE): "commands": finished processInput after 31 ms.
+[2020-05-12 11:50:26] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 11:50:26] (FINE): "commands": finished renderTurn after 38 ms.
+[2020-05-12 11:50:26] (FINE): "commands": finished doInBackGround after 38 ms.
+[2020-05-12 11:50:35] (INFO): Closing instance. Ran for 1 minute. Parsed one command.
+[2020-05-12 11:50:51] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 11:50:53] (INFO): Finished making the window. Took 1399 ms.
+[2020-05-12 11:50:54] (INFO): Loaded 27 creature presets.
+[2020-05-12 11:50:54] (INFO): Loaded 62 item presets.
+[2020-05-12 11:50:54] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 11:50:54] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:50:54] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:50:54] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 11:50:54] (INFO): Loaded 21 location presets.
+[2020-05-12 11:50:54] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 11:50:54] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 12:01:09] (FINE): "Jdi S": started doInBackGround after 6 ms.
+[2020-05-12 12:01:09] (FINE): "Jdi S": started renderTurn after 7 ms.
+[2020-05-12 12:01:09] (FINE): "Jdi S": started processInput after 9 ms.
+[2020-05-12 12:01:09] (FINE): "Jdi S": finished processInput after 29 ms.
+[2020-05-12 12:01:09] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 12:01:09] (FINE): "Jdi S": finished renderTurn after 36 ms.
+[2020-05-12 12:01:09] (FINE): "Jdi S": finished doInBackGround after 37 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": started doInBackGround after 0 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": started renderTurn after 1 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": started processInput after 1 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": finished processInput after 3 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": finished renderTurn after 4 ms.
+[2020-05-12 12:01:14] (FINE): "Jdi S": finished doInBackGround after 5 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": started doInBackGround after 0 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": started renderTurn after 1 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": started processInput after 2 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": finished processInput after 4 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": finished renderTurn after 6 ms.
+[2020-05-12 12:01:18] (FINE): "Jdi S": finished doInBackGround after 6 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": started renderTurn after 8 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": started processInput after 9 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": finished processInput after 21 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": finished renderTurn after 22 ms.
+[2020-05-12 12:01:21] (FINE): "mapa": finished doInBackGround after 22 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": started doInBackGround after 0 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": started renderTurn after 1 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": started processInput after 2 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": finished processInput after 7 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": finished renderTurn after 8 ms.
+[2020-05-12 12:01:25] (FINE): "jdi S": finished doInBackGround after 8 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 12:01:27] (FINE): "mapa": finished doInBackGround after 9 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": started doInBackGround after 0 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": started renderTurn after 1 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": started processInput after 2 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": finished processInput after 5 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": finished renderTurn after 6 ms.
+[2020-05-12 12:01:44] (FINE): "rozhlédni": finished doInBackGround after 6 ms.
+[2020-05-12 12:01:49] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:01:49] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 12:01:49] (FINE): "commands": started processInput after 2 ms.
+[2020-05-12 12:01:49] (FINE): "commands": finished processInput after 3 ms.
+[2020-05-12 12:01:49] (FINE): "commands": finished renderTurn after 4 ms.
+[2020-05-12 12:01:49] (FINE): "commands": finished doInBackGround after 5 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": started doInBackGround after 0 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": started renderTurn after 1 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": started processInput after 2 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": finished processInput after 3 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": finished renderTurn after 4 ms.
+[2020-05-12 12:02:07] (FINE): "podmínky": finished doInBackGround after 4 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": started doInBackGround after 0 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": started renderTurn after 1 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": started processInput after 1 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": finished processInput after 4 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": finished renderTurn after 5 ms.
+[2020-05-12 12:02:10] (FINE): "podívej": finished doInBackGround after 5 ms.
+[2020-05-12 12:03:05] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:03:05] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 12:03:05] (FINE): "commands": started processInput after 2 ms.
+[2020-05-12 12:03:05] (FINE): "commands": finished processInput after 3 ms.
+[2020-05-12 12:03:05] (FINE): "commands": finished renderTurn after 4 ms.
+[2020-05-12 12:03:05] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 12:04:28] (FINE): "rybař": started doInBackGround after 0 ms.
+[2020-05-12 12:04:28] (FINE): "rybař": started renderTurn after 1 ms.
+[2020-05-12 12:04:28] (FINE): "rybař": started processInput after 2 ms.
+[2020-05-12 12:04:28] (FINE): Added Fish to the inventory of Seth.
+[2020-05-12 12:04:28] (FINE): "rybař": finished processInput after 259 ms.
+[2020-05-12 12:04:28] (FINE): "rybař": finished renderTurn after 260 ms.
+[2020-05-12 12:04:28] (FINE): "rybař": finished doInBackGround after 261 ms.
+[2020-05-12 12:04:34] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:04:34] (FINE): "commands": started renderTurn after 1 ms.
+[2020-05-12 12:04:34] (FINE): "commands": started processInput after 2 ms.
+[2020-05-12 12:04:34] (FINE): "commands": finished processInput after 3 ms.
+[2020-05-12 12:04:34] (FINE): "commands": finished renderTurn after 4 ms.
+[2020-05-12 12:04:34] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 12:04:37] (FINE): "comm": started doInBackGround after 0 ms.
+[2020-05-12 12:04:37] (FINE): "comm": started renderTurn after 1 ms.
+[2020-05-12 12:04:37] (FINE): "comm": started processInput after 1 ms.
+[2020-05-12 12:04:37] (FINE): "comm": finished processInput after 3 ms.
+[2020-05-12 12:04:37] (FINE): "comm": finished renderTurn after 3 ms.
+[2020-05-12 12:04:37] (FINE): "comm": finished doInBackGround after 3 ms.
+[2020-05-12 12:04:39] (FINE): "c": started doInBackGround after 0 ms.
+[2020-05-12 12:04:39] (FINE): "c": started renderTurn after 0 ms.
+[2020-05-12 12:04:39] (FINE): "c": started processInput after 1 ms.
+[2020-05-12 12:04:39] (FINE): "c": finished processInput after 2 ms.
+[2020-05-12 12:04:39] (FINE): "c": finished renderTurn after 3 ms.
+[2020-05-12 12:04:39] (FINE): "c": finished doInBackGround after 4 ms.
+[2020-05-12 12:04:46] (FINE): "j": started doInBackGround after 0 ms.
+[2020-05-12 12:04:46] (FINE): "j": started renderTurn after 0 ms.
+[2020-05-12 12:04:46] (FINE): "j": started processInput after 1 ms.
+[2020-05-12 12:04:46] (FINE): "j": finished processInput after 2 ms.
+[2020-05-12 12:04:46] (FINE): "j": finished renderTurn after 2 ms.
+[2020-05-12 12:04:46] (FINE): "j": finished doInBackGround after 3 ms.
+[2020-05-12 12:04:50] (FINE): "jd": started doInBackGround after 0 ms.
+[2020-05-12 12:04:50] (FINE): "jd": started renderTurn after 0 ms.
+[2020-05-12 12:04:50] (FINE): "jd": started processInput after 1 ms.
+[2020-05-12 12:04:50] (FINE): "jd": finished processInput after 2 ms.
+[2020-05-12 12:04:50] (FINE): "jd": finished renderTurn after 3 ms.
+[2020-05-12 12:04:50] (FINE): "jd": finished doInBackGround after 3 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": started doInBackGround after 0 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": started renderTurn after 0 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": started processInput after 1 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": finished processInput after 3 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": finished renderTurn after 4 ms.
+[2020-05-12 12:05:26] (FINE): "podívej": finished doInBackGround after 4 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 12:05:38] (FINE): "mapa": finished doInBackGround after 8 ms.
+[2020-05-12 12:06:24] (FINE): "help": started doInBackGround after 0 ms.
+[2020-05-12 12:06:24] (FINE): "help": started renderTurn after 0 ms.
+[2020-05-12 12:06:24] (FINE): "help": started processInput after 1 ms.
+[2020-05-12 12:06:24] (FINE): "help": finished processInput after 2 ms.
+[2020-05-12 12:06:24] (FINE): "help": finished renderTurn after 3 ms.
+[2020-05-12 12:06:24] (FINE): "help": finished doInBackGround after 3 ms.
+[2020-05-12 12:06:27] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:06:27] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 12:06:27] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 12:06:27] (FINE): "commands": finished processInput after 2 ms.
+[2020-05-12 12:06:27] (FINE): "commands": finished renderTurn after 3 ms.
+[2020-05-12 12:06:27] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": started renderTurn after 0 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": finished processInput after 5 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": finished renderTurn after 6 ms.
+[2020-05-12 12:06:31] (FINE): "výuka": finished doInBackGround after 6 ms.
+[2020-05-12 12:06:53] (FINE): "license": started doInBackGround after 0 ms.
+[2020-05-12 12:06:53] (FINE): "license": started renderTurn after 0 ms.
+[2020-05-12 12:06:53] (FINE): "license": started processInput after 1 ms.
+[2020-05-12 12:06:53] (FINE): "license": finished processInput after 2 ms.
+[2020-05-12 12:06:53] (FINE): "license": finished renderTurn after 2 ms.
+[2020-05-12 12:06:53] (FINE): "license": finished doInBackGround after 3 ms.
+[2020-05-12 12:06:58] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:06:58] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 12:06:58] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 12:06:58] (FINE): "commands": finished processInput after 2 ms.
+[2020-05-12 12:06:58] (FINE): "commands": finished renderTurn after 3 ms.
+[2020-05-12 12:06:58] (FINE): "commands": finished doInBackGround after 4 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": started renderTurn after 0 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": finished processInput after 1 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": finished renderTurn after 2 ms.
+[2020-05-12 12:07:04] (FINE): "výuka": finished doInBackGround after 3 ms.
+[2020-05-12 12:07:13] (FINE): "licence": started doInBackGround after 0 ms.
+[2020-05-12 12:07:13] (FINE): "licence": started renderTurn after 0 ms.
+[2020-05-12 12:07:13] (FINE): "licence": started processInput after 1 ms.
+[2020-05-12 12:07:13] (FINE): "licence": finished processInput after 2 ms.
+[2020-05-12 12:07:13] (FINE): "licence": finished renderTurn after 3 ms.
+[2020-05-12 12:07:13] (FINE): "licence": finished doInBackGround after 3 ms.
+[2020-05-12 12:07:15] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:07:15] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 12:07:15] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 12:07:15] (FINE): "commands": finished processInput after 2 ms.
+[2020-05-12 12:07:15] (FINE): "commands": finished renderTurn after 3 ms.
+[2020-05-12 12:07:15] (FINE): "commands": finished doInBackGround after 3 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": started renderTurn after 0 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": finished processInput after 1 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": finished renderTurn after 2 ms.
+[2020-05-12 12:07:23] (FINE): "výuka": finished doInBackGround after 3 ms.
+[2020-05-12 12:07:29] (FINE): "license": started doInBackGround after 0 ms.
+[2020-05-12 12:07:29] (FINE): "license": started renderTurn after 0 ms.
+[2020-05-12 12:07:29] (FINE): "license": started processInput after 1 ms.
+[2020-05-12 12:07:29] (FINE): "license": finished processInput after 1 ms.
+[2020-05-12 12:07:29] (FINE): "license": finished renderTurn after 2 ms.
+[2020-05-12 12:07:29] (FINE): "license": finished doInBackGround after 2 ms.
+[2020-05-12 12:08:52] (FINE): "commands": started doInBackGround after 0 ms.
+[2020-05-12 12:08:52] (FINE): "commands": started renderTurn after 0 ms.
+[2020-05-12 12:08:52] (FINE): "commands": started processInput after 1 ms.
+[2020-05-12 12:08:52] (FINE): "commands": finished processInput after 1 ms.
+[2020-05-12 12:08:52] (FINE): "commands": finished renderTurn after 2 ms.
+[2020-05-12 12:08:52] (FINE): "commands": finished doInBackGround after 3 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": started renderTurn after 0 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": finished processInput after 1 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": finished renderTurn after 2 ms.
+[2020-05-12 12:08:54] (FINE): "výuka": finished doInBackGround after 2 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": started doInBackGround after 0 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": started renderTurn after 0 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": started processInput after 0 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": finished processInput after 10 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": finished renderTurn after 11 ms.
+[2020-05-12 12:09:03] (FINE): "wiki": finished doInBackGround after 11 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": started doInBackGround after 0 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": started renderTurn after 0 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": started processInput after 1 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": finished processInput after 39 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": finished renderTurn after 39 ms.
+[2020-05-12 12:09:12] (FINE): "wiki bat": finished doInBackGround after 39 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": started doInBackGround after 0 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": started renderTurn after 0 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": started processInput after 1 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": finished processInput after 1 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": finished renderTurn after 2 ms.
+[2020-05-12 12:09:24] (FINE): "wiki": finished doInBackGround after 2 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": started doInBackGround after 0 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": started renderTurn after 0 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": started processInput after 1 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": finished processInput after 2 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": finished renderTurn after 3 ms.
+[2020-05-12 12:09:34] (FINE): "wiki license": finished doInBackGround after 3 ms.
+[2020-05-12 12:09:44] (FINE): "skonči": started doInBackGround after 0 ms.
+[2020-05-12 12:09:44] (FINE): "skonči": started renderTurn after 0 ms.
+[2020-05-12 12:09:44] (FINE): "skonči": started processInput after 1 ms.
+[2020-05-12 12:09:46] (INFO): Closing instance. Ran for 18 minutes. Parsed 27 commands.
+[2020-05-12 12:13:42] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 12:13:43] (INFO): Finished making the window. Took 1619 ms.
+[2020-05-12 12:13:45] (INFO): Loaded 27 creature presets.
+[2020-05-12 12:13:45] (INFO): Loaded 62 item presets.
+[2020-05-12 12:13:45] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 12:13:45] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:13:45] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:13:45] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:13:45] (INFO): Loaded 21 location presets.
+[2020-05-12 12:13:45] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 12:13:45] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 12:14:31] (FINE): "příkazy": started doInBackGround after 7 ms.
+[2020-05-12 12:14:31] (FINE): "příkazy": started renderTurn after 12 ms.
+[2020-05-12 12:14:31] (FINE): "příkazy": started processInput after 13 ms.
+[2020-05-12 12:14:31] (FINE): "příkazy": finished processInput after 34 ms.
+[2020-05-12 12:14:31] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 12:14:31] (FINE): "příkazy": finished renderTurn after 46 ms.
+[2020-05-12 12:14:31] (FINE): "příkazy": finished doInBackGround after 46 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": finished processInput after 15 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": finished renderTurn after 16 ms.
+[2020-05-12 12:14:41] (FINE): "mapa": finished doInBackGround after 16 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": started doInBackGround after 0 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": started renderTurn after 1 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": started processInput after 2 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": finished processInput after 4 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": finished renderTurn after 5 ms.
+[2020-05-12 12:15:17] (FINE): "jdi sever": finished doInBackGround after 6 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": finished processInput after 4 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": finished renderTurn after 4 ms.
+[2020-05-12 12:15:24] (FINE): "mapa": finished doInBackGround after 5 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": started doInBackGround after 0 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": started renderTurn after 1 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": started processInput after 2 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": finished processInput after 5 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": finished renderTurn after 6 ms.
+[2020-05-12 12:15:28] (FINE): "jdi Z": finished doInBackGround after 7 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": started doInBackGround after 0 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": started renderTurn after 1 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": started processInput after 2 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": finished processInput after 5 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": finished renderTurn after 7 ms.
+[2020-05-12 12:15:30] (FINE): "jdi Z": finished doInBackGround after 8 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 12:15:33] (FINE): "mapa": finished doInBackGround after 9 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": started processInput after 2 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": finished processInput after 4 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": finished renderTurn after 5 ms.
+[2020-05-12 12:15:39] (FINE): "okolí": finished doInBackGround after 6 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": finished processInput after 6 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": finished renderTurn after 7 ms.
+[2020-05-12 12:17:17] (FINE): "mapa": finished doInBackGround after 8 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 12:17:24] (FINE): "mapa": finished doInBackGround after 8 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": finished processInput after 3 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": finished renderTurn after 4 ms.
+[2020-05-12 12:17:33] (FINE): "okolí": finished doInBackGround after 5 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": finished processInput after 3 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": finished renderTurn after 4 ms.
+[2020-05-12 12:17:37] (FINE): "příkazy": finished doInBackGround after 4 ms.
+[2020-05-12 12:17:48] (FINE): "kou": started doInBackGround after 0 ms.
+[2020-05-12 12:17:48] (FINE): "kou": started renderTurn after 1 ms.
+[2020-05-12 12:17:48] (FINE): "kou": started processInput after 1 ms.
+[2020-05-12 12:17:48] (FINE): "kou": finished processInput after 4 ms.
+[2020-05-12 12:17:48] (FINE): "kou": finished renderTurn after 5 ms.
+[2020-05-12 12:17:48] (FINE): "kou": finished doInBackGround after 5 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": started doInBackGround after 0 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": started renderTurn after 0 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": started processInput after 1 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": finished processInput after 2 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": finished renderTurn after 3 ms.
+[2020-05-12 12:17:51] (FINE): "kouz": finished doInBackGround after 3 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": started doInBackGround after 0 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": started renderTurn after 0 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": started processInput after 1 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": finished processInput after 2 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": finished renderTurn after 3 ms.
+[2020-05-12 12:17:57] (FINE): "kouzlo": finished doInBackGround after 3 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": started doInBackGround after 0 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": started renderTurn after 0 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": started processInput after 1 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": finished processInput after 2 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": finished renderTurn after 3 ms.
+[2020-05-12 12:18:01] (FINE): "jdi": finished doInBackGround after 3 ms.
+[2020-05-12 12:18:04] (FINE): "j": started doInBackGround after 0 ms.
+[2020-05-12 12:18:04] (FINE): "j": started renderTurn after 0 ms.
+[2020-05-12 12:18:04] (FINE): "j": started processInput after 1 ms.
+[2020-05-12 12:18:04] (FINE): "j": finished processInput after 2 ms.
+[2020-05-12 12:18:04] (FINE): "j": finished renderTurn after 5 ms.
+[2020-05-12 12:18:04] (FINE): "j": finished doInBackGround after 5 ms.
+[2020-05-12 12:18:08] (FINE): "jd": started doInBackGround after 0 ms.
+[2020-05-12 12:18:08] (FINE): "jd": started renderTurn after 0 ms.
+[2020-05-12 12:18:08] (FINE): "jd": started processInput after 1 ms.
+[2020-05-12 12:18:08] (FINE): "jd": finished processInput after 2 ms.
+[2020-05-12 12:18:08] (FINE): "jd": finished renderTurn after 2 ms.
+[2020-05-12 12:18:08] (FINE): "jd": finished doInBackGround after 3 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": started doInBackGround after 0 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": started renderTurn after 0 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": started processInput after 1 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": finished processInput after 1 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": finished renderTurn after 2 ms.
+[2020-05-12 12:18:12] (FINE): "jdi": finished doInBackGround after 3 ms.
+[2020-05-12 12:18:15] (FINE): "N": started doInBackGround after 0 ms.
+[2020-05-12 12:18:15] (FINE): "N": started renderTurn after 1 ms.
+[2020-05-12 12:18:15] (FINE): "N": started processInput after 2 ms.
+[2020-05-12 12:18:15] (FINE): "N": finished processInput after 3 ms.
+[2020-05-12 12:18:15] (FINE): "N": finished renderTurn after 3 ms.
+[2020-05-12 12:18:15] (FINE): "N": finished doInBackGround after 3 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": started doInBackGround after 0 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": started renderTurn after 0 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": started processInput after 1 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": finished processInput after 3 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": finished renderTurn after 4 ms.
+[2020-05-12 12:18:17] (FINE): "jdi S": finished doInBackGround after 5 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": finished processInput after 5 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": finished renderTurn after 6 ms.
+[2020-05-12 12:18:22] (FINE): "mapa": finished doInBackGround after 6 ms.
+[2020-05-12 12:18:28] (INFO): Closing instance. Ran for 4 minutes. Parsed 17 commands.
+[2020-05-12 12:21:37] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 12:21:39] (INFO): Finished making the window. Took 1365 ms.
+[2020-05-12 12:21:40] (INFO): Loaded 27 creature presets.
+[2020-05-12 12:21:40] (INFO): Loaded 62 item presets.
+[2020-05-12 12:21:40] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 12:21:40] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:21:40] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:21:40] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 12:21:40] (INFO): Loaded 21 location presets.
+[2020-05-12 12:21:40] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 12:21:40] (FINE): Added Dagger to the inventory of Traveler.
+[2020-05-12 12:21:40] (FINE): Added Dagger to the inventory of Traveler.
+[2020-05-12 12:21:40] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 12:22:23] (FINE): "příkazy": started doInBackGround after 7 ms.
+[2020-05-12 12:22:23] (FINE): "příkazy": started renderTurn after 10 ms.
+[2020-05-12 12:22:23] (FINE): "příkazy": started processInput after 11 ms.
+[2020-05-12 12:22:23] (FINE): "příkazy": finished processInput after 29 ms.
+[2020-05-12 12:22:23] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 12:22:23] (FINE): "příkazy": finished renderTurn after 35 ms.
+[2020-05-12 12:22:23] (FINE): "příkazy": finished doInBackGround after 36 ms.
+[2020-05-12 12:22:28] (FINE): "čas": started doInBackGround after 0 ms.
+[2020-05-12 12:22:28] (FINE): "čas": started renderTurn after 1 ms.
+[2020-05-12 12:22:28] (FINE): "čas": started processInput after 2 ms.
+[2020-05-12 12:22:28] (FINE): "čas": finished processInput after 4 ms.
+[2020-05-12 12:22:28] (FINE): "čas": finished renderTurn after 5 ms.
+[2020-05-12 12:22:28] (FINE): "čas": finished doInBackGround after 5 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": finished processInput after 4 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": finished renderTurn after 5 ms.
+[2020-05-12 12:23:19] (FINE): "příkazy": finished doInBackGround after 5 ms.
+[2020-05-12 12:23:33] (FINE): "stav": started doInBackGround after 0 ms.
+[2020-05-12 12:23:33] (FINE): "stav": started renderTurn after 1 ms.
+[2020-05-12 12:23:33] (FINE): "stav": started processInput after 2 ms.
+[2020-05-12 12:23:33] (FINE): "stav": finished processInput after 7 ms.
+[2020-05-12 12:23:33] (FINE): "stav": finished renderTurn after 9 ms.
+[2020-05-12 12:23:33] (FINE): "stav": finished doInBackGround after 9 ms.
+[2020-05-12 12:24:22] (INFO): Closing instance. Ran for 2 minutes. Parsed 4 commands.
+[2020-05-12 15:52:36] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 15:52:38] (INFO): Finished making the window. Took 2323 ms.
+[2020-05-12 15:52:42] (INFO): Loaded 27 creature presets.
+[2020-05-12 15:52:42] (INFO): Loaded 62 item presets.
+[2020-05-12 15:52:42] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 15:52:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 15:52:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 15:52:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 15:52:42] (INFO): Loaded 21 location presets.
+[2020-05-12 15:52:42] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 15:52:42] (FINE): Added Enchanted Dagger to the inventory of Obchodník.
+[2020-05-12 15:52:42] (FINE): Added Enchanted Dagger to the inventory of Obchodník.
+[2020-05-12 15:52:42] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 15:59:42] (INFO): Closing instance. Ran for 7 minutes. Parsed no commands.
+[2020-05-12 16:00:32] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:00:33] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:00:33] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:00:33] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:00:33] (INFO): Loaded 21 location presets.
+[2020-05-12 16:02:19] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:02:19] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:19] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:19] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:19] (INFO): Loaded 21 location presets.
+[2020-05-12 16:02:45] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:02:46] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:46] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:46] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:02:46] (INFO): Loaded 21 location presets.
+[2020-05-12 16:06:17] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:06:18] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:18] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:18] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:18] (INFO): Loaded 21 location presets.
+[2020-05-12 16:06:47] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:06:47] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:47] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:47] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:06:47] (INFO): Loaded 21 location presets.
+[2020-05-12 16:14:23] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:14:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:14:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:14:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:14:24] (INFO): Loaded 21 location presets.
+[2020-05-12 16:22:41] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:22:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:22:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:22:42] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:22:42] (INFO): Loaded 21 location presets.
+[2020-05-12 16:28:06] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 16:28:07] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:28:07] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:28:07] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 16:28:07] (INFO): Loaded 21 location presets.
+[2020-05-12 17:02:23] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:02:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:02:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:02:24] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:02:24] (INFO): Loaded 21 location presets.
+[2020-05-12 17:26:41] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:26:43] (INFO): Finished making the window. Took 1524 ms.
+[2020-05-12 17:26:43] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:26:43] (INFO): Loaded 62 item presets.
+[2020-05-12 17:26:43] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:26:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:26:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:26:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:26:43] (INFO): Loaded 21 location presets.
+[2020-05-12 17:26:43] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:26:43] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 17:26:43] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 17:26:43] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:26:47] (INFO): Saved 87.7 KiB in 79 ms.
+[2020-05-12 17:26:47] (INFO): Closing instance. Ran for 5 seconds. Parsed no commands.
+[2020-05-12 17:27:11] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:27:13] (INFO): Finished making the window. Took 1415 ms.
+[2020-05-12 17:27:13] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:27:13] (INFO): Loaded 62 item presets.
+[2020-05-12 17:27:13] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:27:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:27:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:27:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:27:13] (INFO): Loaded 21 location presets.
+[2020-05-12 17:27:13] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:27:13] (FINE): Added Enchanted Dagger to the inventory of Traveler.
+[2020-05-12 17:27:13] (FINE): Added Dagger to the inventory of Traveler.
+[2020-05-12 17:27:13] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:27:20] (INFO): Closing instance. Ran for 8 seconds. Parsed no commands.
+[2020-05-12 17:34:36] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:34:37] (INFO): Finished making the window. Took 1414 ms.
+[2020-05-12 17:34:37] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:34:37] (INFO): Loaded 62 item presets.
+[2020-05-12 17:34:37] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:34:37] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:34:37] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:34:37] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:34:37] (INFO): Loaded 21 location presets.
+[2020-05-12 17:34:37] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:34:37] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:34:42] (FINE): "příkazy": started doInBackGround after 7 ms.
+[2020-05-12 17:34:42] (FINE): "příkazy": started renderTurn after 15 ms.
+[2020-05-12 17:34:42] (FINE): "příkazy": started processInput after 16 ms.
+[2020-05-12 17:34:42] (FINE): "příkazy": finished processInput after 57 ms.
+[2020-05-12 17:34:42] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:34:42] (FINE): "příkazy": finished renderTurn after 75 ms.
+[2020-05-12 17:34:42] (FINE): "příkazy": finished doInBackGround after 75 ms.
+[2020-05-12 17:34:50] (INFO): Closing instance. Ran for 14 seconds. Parsed one command.
+[2020-05-12 17:40:02] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:40:03] (INFO): Finished making the window. Took 1380 ms.
+[2020-05-12 17:40:03] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:40:03] (INFO): Loaded 62 item presets.
+[2020-05-12 17:40:03] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:40:03] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:40:03] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:40:03] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:40:03] (INFO): Loaded 21 location presets.
+[2020-05-12 17:40:04] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:40:04] (FINE): Added Enchanted Dagger to the inventory of Obchodník.
+[2020-05-12 17:40:04] (FINE): Added Dagger to the inventory of Obchodník.
+[2020-05-12 17:40:04] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:40:41] (FINE): "mapa": started doInBackGround after 7 ms.
+[2020-05-12 17:40:41] (FINE): "mapa": started renderTurn after 7 ms.
+[2020-05-12 17:40:41] (FINE): "mapa": started processInput after 9 ms.
+[2020-05-12 17:40:41] (FINE): "mapa": finished processInput after 68 ms.
+[2020-05-12 17:40:41] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:40:41] (FINE): "mapa": finished renderTurn after 73 ms.
+[2020-05-12 17:40:41] (FINE): "mapa": finished doInBackGround after 74 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": finished processInput after 6 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": finished renderTurn after 8 ms.
+[2020-05-12 17:40:50] (FINE): "příkazy": finished doInBackGround after 10 ms.
+[2020-05-12 17:41:41] (FINE): "jd": started doInBackGround after 0 ms.
+[2020-05-12 17:41:41] (FINE): "jd": started renderTurn after 1 ms.
+[2020-05-12 17:41:41] (FINE): "jd": started processInput after 2 ms.
+[2020-05-12 17:41:41] (FINE): "jd": finished processInput after 6 ms.
+[2020-05-12 17:41:41] (FINE): "jd": finished renderTurn after 8 ms.
+[2020-05-12 17:41:41] (FINE): "jd": finished doInBackGround after 10 ms.
+[2020-05-12 17:41:45] (FINE): "př": started doInBackGround after 0 ms.
+[2020-05-12 17:41:45] (FINE): "př": started renderTurn after 1 ms.
+[2020-05-12 17:41:45] (FINE): "př": started processInput after 2 ms.
+[2020-05-12 17:41:45] (FINE): "př": finished processInput after 3 ms.
+[2020-05-12 17:41:45] (FINE): "př": finished renderTurn after 3 ms.
+[2020-05-12 17:41:45] (FINE): "př": finished doInBackGround after 5 ms.
+[2020-05-12 17:45:46] (INFO): Closing instance. Ran for 5 minutes. Parsed 2 commands.
+[2020-05-12 17:46:14] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:46:16] (INFO): Finished making the window. Took 1379 ms.
+[2020-05-12 17:46:16] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:46:16] (INFO): Loaded 62 item presets.
+[2020-05-12 17:46:16] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:46:16] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:46:16] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:46:16] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:46:16] (INFO): Loaded 21 location presets.
+[2020-05-12 17:46:16] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:46:16] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 17:46:16] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:46:21] (FINE): "jd": started doInBackGround after 6 ms.
+[2020-05-12 17:46:21] (FINE): "jd": started renderTurn after 15 ms.
+[2020-05-12 17:46:21] (FINE): "jd": started processInput after 16 ms.
+[2020-05-12 17:46:21] (FINE): "jd": finished processInput after 43 ms.
+[2020-05-12 17:46:21] (FINE): "jd": finished renderTurn after 44 ms.
+[2020-05-12 17:46:21] (FINE): "jd": finished doInBackGround after 44 ms.
+[2020-05-12 17:46:32] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 17:46:32] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 17:46:32] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 17:46:32] (FINE): "příkazy": finished processInput after 4 ms.
+[2020-05-12 17:46:32] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:46:32] (FINE): "příkazy": finished renderTurn after 19 ms.
+[2020-05-12 17:46:32] (FINE): "příkazy": finished doInBackGround after 19 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": started doInBackGround after 0 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": started renderTurn after 1 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": started processInput after 2 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": finished processInput after 3 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": finished renderTurn after 5 ms.
+[2020-05-12 17:46:58] (FINE): "příkazy jdi": finished doInBackGround after 7 ms.
+[2020-05-12 17:47:05] (INFO): Closing instance. Ran for 50 seconds. Parsed 2 commands.
+[2020-05-12 17:48:21] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:48:23] (INFO): Finished making the window. Took 1429 ms.
+[2020-05-12 17:48:23] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:48:23] (INFO): Loaded 62 item presets.
+[2020-05-12 17:48:23] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:48:23] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:48:23] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:48:23] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:48:23] (INFO): Loaded 21 location presets.
+[2020-05-12 17:48:23] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:48:23] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:48:27] (FINE): "příkazy": started doInBackGround after 6 ms.
+[2020-05-12 17:48:27] (FINE): "příkazy": started renderTurn after 13 ms.
+[2020-05-12 17:48:27] (FINE): "příkazy": started processInput after 15 ms.
+[2020-05-12 17:48:27] (FINE): "příkazy": finished processInput after 42 ms.
+[2020-05-12 17:48:27] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:48:27] (FINE): "příkazy": finished renderTurn after 59 ms.
+[2020-05-12 17:48:27] (FINE): "příkazy": finished doInBackGround after 59 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": started doInBackGround after 0 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": started renderTurn after 1 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": started processInput after 2 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": finished processInput after 5 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": finished renderTurn after 8 ms.
+[2020-05-12 17:48:34] (FINE): "příkazy kouz": finished doInBackGround after 10 ms.
+[2020-05-12 17:48:46] (FINE): "skonči": started doInBackGround after 0 ms.
+[2020-05-12 17:48:46] (FINE): "skonči": started renderTurn after 1 ms.
+[2020-05-12 17:48:46] (FINE): "skonči": started processInput after 2 ms.
+[2020-05-12 17:48:48] (INFO): Closing instance. Ran for 27 seconds. Parsed 3 commands.
+[2020-05-12 17:50:48] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 17:50:50] (INFO): Finished making the window. Took 1506 ms.
+[2020-05-12 17:50:50] (INFO): Loaded 27 creature presets.
+[2020-05-12 17:50:50] (INFO): Loaded 62 item presets.
+[2020-05-12 17:50:50] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 17:50:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:50:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:50:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 17:50:50] (INFO): Loaded 21 location presets.
+[2020-05-12 17:50:50] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 17:50:50] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 17:50:50] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 17:50:50] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 17:50:55] (FINE): "příkazy": started doInBackGround after 6 ms.
+[2020-05-12 17:50:55] (FINE): "příkazy": started renderTurn after 11 ms.
+[2020-05-12 17:50:55] (FINE): "příkazy": started processInput after 15 ms.
+[2020-05-12 17:50:55] (FINE): "příkazy": finished processInput after 46 ms.
+[2020-05-12 17:50:55] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 17:50:55] (FINE): "příkazy": finished renderTurn after 53 ms.
+[2020-05-12 17:50:55] (FINE): "příkazy": finished doInBackGround after 53 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": started processInput after 2 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": finished processInput after 6 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": finished renderTurn after 8 ms.
+[2020-05-12 17:51:05] (FINE): "okolí": finished doInBackGround after 8 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": finished processInput after 3 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": finished renderTurn after 4 ms.
+[2020-05-12 17:51:15] (FINE): "příkazy": finished doInBackGround after 6 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": started doInBackGround after 0 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": started renderTurn after 1 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": started processInput after 2 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": finished processInput after 15 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": finished renderTurn after 17 ms.
+[2020-05-12 17:51:25] (FINE): "wiki": finished doInBackGround after 18 ms.
+[2020-05-12 17:52:05] (INFO): Closing instance. Ran for 1 minute. Parsed 4 commands.
+[2020-05-12 21:32:29] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 21:32:30] (INFO): Finished making the window. Took 1919 ms.
+[2020-05-12 21:32:30] (INFO): Loaded 27 creature presets.
+[2020-05-12 21:32:30] (INFO): Loaded 62 item presets.
+[2020-05-12 21:32:31] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 21:32:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:32:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:32:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:32:31] (INFO): Loaded 21 location presets.
+[2020-05-12 21:32:31] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 21:32:31] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 21:57:37] (INFO): Closing instance. Ran for 25 minutes. Parsed no commands.
+[2020-05-12 21:57:41] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 21:57:43] (INFO): Finished making the window. Took 1696 ms.
+[2020-05-12 21:57:43] (INFO): Loaded 27 creature presets.
+[2020-05-12 21:57:43] (INFO): Loaded 62 item presets.
+[2020-05-12 21:57:43] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 21:57:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:57:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:57:43] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 21:57:43] (INFO): Loaded 21 location presets.
+[2020-05-12 21:57:43] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 21:57:43] (FINE): Added Dagger to the inventory of Obchodník.
+[2020-05-12 21:57:43] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 21:58:02] (FINE): "wiki": started doInBackGround after 9 ms.
+[2020-05-12 21:58:02] (FINE): "wiki": started renderTurn after 13 ms.
+[2020-05-12 21:58:02] (FINE): "wiki": started processInput after 15 ms.
+[2020-05-12 21:58:02] (FINE): "wiki": finished processInput after 46 ms.
+[2020-05-12 21:58:02] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 21:58:02] (FINE): "wiki": finished renderTurn after 55 ms.
+[2020-05-12 21:58:02] (FINE): "wiki": finished doInBackGround after 55 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": started doInBackGround after 0 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": started renderTurn after 1 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": started processInput after 2 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": finished processInput after 49 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": finished renderTurn after 50 ms.
+[2020-05-12 21:58:13] (FINE): "wiki fuit bat": finished doInBackGround after 50 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": started doInBackGround after 0 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": started renderTurn after 1 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": started processInput after 2 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": finished processInput after 4 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": finished renderTurn after 5 ms.
+[2020-05-12 21:58:23] (FINE): "wiki Fruit Bat": finished doInBackGround after 6 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": started processInput after 2 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": finished processInput after 3 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": finished renderTurn after 4 ms.
+[2020-05-12 21:58:40] (FINE): "okolí": finished doInBackGround after 5 ms.
+[2020-05-12 22:00:41] (INFO): Closing instance. Ran for 2 minutes. Parsed 4 commands.
+[2020-05-12 22:05:00] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:05:01] (INFO): Finished making the window. Took 1517 ms.
+[2020-05-12 22:05:01] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:05:01] (INFO): Loaded 62 item presets.
+[2020-05-12 22:05:01] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:05:01] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:05:01] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:05:01] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:05:01] (INFO): Loaded 21 location presets.
+[2020-05-12 22:05:01] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:05:02] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:05:41] (INFO): Closing instance. Ran for 40 seconds. Parsed no commands.
+[2020-05-12 22:06:48] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:06:50] (INFO): Finished making the window. Took 1434 ms.
+[2020-05-12 22:06:50] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:06:50] (INFO): Loaded 62 item presets.
+[2020-05-12 22:06:50] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:06:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:06:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:06:50] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:06:50] (INFO): Loaded 21 location presets.
+[2020-05-12 22:06:50] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:06:50] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 22:06:50] (FINE): Added Dagger to the inventory of Cestovatel.
+[2020-05-12 22:06:50] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:06:54] (INFO): Closing instance. Ran for 5 seconds. Parsed no commands.
+[2020-05-12 22:10:07] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:10:09] (INFO): Finished making the window. Took 1446 ms.
+[2020-05-12 22:10:09] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:10:09] (INFO): Loaded 62 item presets.
+[2020-05-12 22:10:09] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:10:09] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:10:09] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:10:09] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:10:09] (INFO): Loaded 21 location presets.
+[2020-05-12 22:10:09] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:10:09] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:10:57] (FINE): "výuka": started doInBackGround after 7 ms.
+[2020-05-12 22:10:57] (FINE): "výuka": started renderTurn after 10 ms.
+[2020-05-12 22:10:57] (FINE): "výuka": started processInput after 11 ms.
+[2020-05-12 22:10:57] (FINE): "výuka": finished processInput after 52 ms.
+[2020-05-12 22:10:57] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 22:10:57] (FINE): "výuka": finished renderTurn after 63 ms.
+[2020-05-12 22:10:57] (FINE): "výuka": finished doInBackGround after 63 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": finished processInput after 4 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": finished renderTurn after 5 ms.
+[2020-05-12 22:16:57] (FINE): "příkazy": finished doInBackGround after 6 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": started renderTurn after 2 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": started processInput after 3 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": finished processInput after 3 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": finished renderTurn after 4 ms.
+[2020-05-12 22:17:35] (FINE): "výuka": finished doInBackGround after 5 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": started doInBackGround after 9 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": started renderTurn after 10 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": started processInput after 10 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": finished processInput after 11 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": finished renderTurn after 12 ms.
+[2020-05-12 22:18:03] (FINE): "příkazy": finished doInBackGround after 12 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": started doInBackGround after 0 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": started renderTurn after 1 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": started processInput after 2 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": finished processInput after 6 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": finished renderTurn after 7 ms.
+[2020-05-12 22:19:21] (FINE): "jít na sever": finished doInBackGround after 8 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": started doInBackGround after 0 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": started renderTurn after 1 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": started processInput after 2 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": finished processInput after 3 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": finished renderTurn after 3 ms.
+[2020-05-12 22:19:28] (FINE): "jdi na sever": finished doInBackGround after 4 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": started renderTurn after 1 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": started processInput after 2 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": finished processInput after 5 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": finished renderTurn after 7 ms.
+[2020-05-12 22:20:52] (FINE): "jdi s": finished doInBackGround after 7 ms.
+[2020-05-12 22:20:54] (FINE): "m": started doInBackGround after 0 ms.
+[2020-05-12 22:20:54] (FINE): "m": started renderTurn after 1 ms.
+[2020-05-12 22:20:54] (FINE): "m": started processInput after 2 ms.
+[2020-05-12 22:20:54] (FINE): "m": finished processInput after 3 ms.
+[2020-05-12 22:20:54] (FINE): "m": finished renderTurn after 4 ms.
+[2020-05-12 22:20:54] (FINE): "m": finished doInBackGround after 4 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": finished processInput after 18 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": finished renderTurn after 19 ms.
+[2020-05-12 22:20:56] (FINE): "mapa": finished doInBackGround after 19 ms.
+[2020-05-12 22:26:25] (INFO): Closing instance. Ran for 16 minutes. Parsed 7 commands.
+[2020-05-12 22:26:29] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:26:31] (INFO): Finished making the window. Took 1620 ms.
+[2020-05-12 22:26:31] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:26:31] (INFO): Loaded 62 item presets.
+[2020-05-12 22:26:31] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:26:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:26:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:26:31] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:26:31] (INFO): Loaded 21 location presets.
+[2020-05-12 22:26:31] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:26:31] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:26:53] (FINE): "wiki": started doInBackGround after 8 ms.
+[2020-05-12 22:26:53] (FINE): "wiki": started renderTurn after 12 ms.
+[2020-05-12 22:26:53] (FINE): "wiki": started processInput after 14 ms.
+[2020-05-12 22:26:53] (FINE): "wiki": finished processInput after 45 ms.
+[2020-05-12 22:26:53] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 22:26:53] (FINE): "wiki": finished renderTurn after 52 ms.
+[2020-05-12 22:26:53] (FINE): "wiki": finished doInBackGround after 53 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": started processInput after 3 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": finished processInput after 4 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": finished renderTurn after 5 ms.
+[2020-05-12 22:27:01] (FINE): "okolí": finished doInBackGround after 6 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": started renderTurn after 1 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": started processInput after 2 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": finished processInput after 5 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": finished renderTurn after 7 ms.
+[2020-05-12 22:27:07] (FINE): "výuka": finished doInBackGround after 7 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": started processInput after 2 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": finished processInput after 4 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": finished renderTurn after 5 ms.
+[2020-05-12 22:27:12] (FINE): "okolí": finished doInBackGround after 6 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": finished processInput after 15 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": finished renderTurn after 16 ms.
+[2020-05-12 22:27:15] (FINE): "mapa": finished doInBackGround after 16 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": started doInBackGround after 0 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": started renderTurn after 1 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": started processInput after 2 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": finished processInput after 6 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": finished renderTurn after 7 ms.
+[2020-05-12 22:27:24] (FINE): "rybařit": finished doInBackGround after 7 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": started doInBackGround after 0 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": started renderTurn after 1 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": started processInput after 2 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": finished processInput after 257 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": finished renderTurn after 258 ms.
+[2020-05-12 22:27:35] (FINE): "rybař": finished doInBackGround after 259 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": started doInBackGround after 0 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": started renderTurn after 1 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": started processInput after 2 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": finished processInput after 258 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": finished renderTurn after 259 ms.
+[2020-05-12 22:27:41] (FINE): "rybař": finished doInBackGround after 260 ms.
+[2020-05-12 22:27:46] (FINE): "rybař": started doInBackGround after 0 ms.
+[2020-05-12 22:27:46] (FINE): "rybař": started renderTurn after 1 ms.
+[2020-05-12 22:27:46] (FINE): "rybař": started processInput after 2 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": finished processInput after 257 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": finished renderTurn after 258 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": finished doInBackGround after 259 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": started doInBackGround after 0 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": started renderTurn after 1 ms.
+[2020-05-12 22:27:47] (FINE): "rybař": started processInput after 2 ms.
+[2020-05-12 22:27:48] (FINE): Added Fish to the inventory of Seth.
+[2020-05-12 22:27:48] (FINE): "rybař": finished processInput after 258 ms.
+[2020-05-12 22:27:48] (FINE): "rybař": finished renderTurn after 259 ms.
+[2020-05-12 22:27:48] (FINE): "rybař": finished doInBackGround after 259 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": finished processInput after 3 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": finished renderTurn after 3 ms.
+[2020-05-12 22:27:54] (FINE): "příkazy": finished doInBackGround after 4 ms.
+[2020-05-12 22:28:08] (FINE): "věci": started doInBackGround after 0 ms.
+[2020-05-12 22:28:08] (FINE): "věci": started renderTurn after 0 ms.
+[2020-05-12 22:28:08] (FINE): "věci": started processInput after 1 ms.
+[2020-05-12 22:28:08] (FINE): "věci": finished processInput after 8 ms.
+[2020-05-12 22:28:08] (FINE): "věci": finished renderTurn after 9 ms.
+[2020-05-12 22:28:08] (FINE): "věci": finished doInBackGround after 9 ms.
+[2020-05-12 22:28:47] (FINE): "skonči": started doInBackGround after 0 ms.
+[2020-05-12 22:28:47] (FINE): "skonči": started renderTurn after 1 ms.
+[2020-05-12 22:28:47] (FINE): "skonči": started processInput after 2 ms.
+[2020-05-12 22:28:50] (INFO): Closing instance. Ran for 2 minutes. Parsed 12 commands.
+[2020-05-12 22:50:11] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:50:12] (INFO): Finished making the window. Took 1720 ms.
+[2020-05-12 22:50:13] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:50:13] (INFO): Loaded 62 item presets.
+[2020-05-12 22:50:13] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:50:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:50:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:50:13] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:50:13] (INFO): Loaded 21 location presets.
+[2020-05-12 22:50:13] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:50:13] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:50:17] (FINE): "výuka": started doInBackGround after 7 ms.
+[2020-05-12 22:50:17] (FINE): "výuka": started renderTurn after 9 ms.
+[2020-05-12 22:50:17] (FINE): "výuka": started processInput after 15 ms.
+[2020-05-12 22:50:17] (FINE): "výuka": finished processInput after 46 ms.
+[2020-05-12 22:50:17] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 22:50:17] (FINE): "výuka": finished renderTurn after 56 ms.
+[2020-05-12 22:50:17] (FINE): "výuka": finished doInBackGround after 56 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": started doInBackGround after 0 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": started renderTurn after 1 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": started processInput after 2 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": finished processInput after 17 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": finished renderTurn after 19 ms.
+[2020-05-12 22:50:24] (FINE): "wiki": finished doInBackGround after 20 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": started doInBackGround after 0 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": started renderTurn after 1 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": started processInput after 2 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": finished processInput after 37 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": finished renderTurn after 38 ms.
+[2020-05-12 22:50:36] (FINE): "wiki Contributors": finished doInBackGround after 39 ms.
+[2020-05-12 22:53:57] (INFO): Closing instance. Ran for 3 minutes. Parsed 3 commands.
+[2020-05-12 22:54:00] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 22:54:02] (INFO): Finished making the window. Took 1474 ms.
+[2020-05-12 22:54:02] (INFO): Loaded 27 creature presets.
+[2020-05-12 22:54:02] (INFO): Loaded 62 item presets.
+[2020-05-12 22:54:02] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 22:54:02] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:54:02] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:54:02] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 22:54:02] (INFO): Loaded 21 location presets.
+[2020-05-12 22:54:02] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 22:54:02] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 22:54:02] (FINE): Added Dagger to the inventory of Cestovatel.
+[2020-05-12 22:54:02] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 22:54:06] (FINE): "wiki con": started doInBackGround after 4 ms.
+[2020-05-12 22:54:06] (FINE): "wiki con": started renderTurn after 4 ms.
+[2020-05-12 22:54:06] (FINE): "wiki con": started processInput after 5 ms.
+[2020-05-12 22:54:06] (FINE): "wiki con": finished processInput after 66 ms.
+[2020-05-12 22:54:06] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 22:54:06] (FINE): "wiki con": finished renderTurn after 74 ms.
+[2020-05-12 22:54:06] (FINE): "wiki con": finished doInBackGround after 74 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": started doInBackGround after 0 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": started renderTurn after 1 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": started processInput after 2 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": finished processInput after 5 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": finished renderTurn after 7 ms.
+[2020-05-12 22:54:13] (FINE): "wiki Při": finished doInBackGround after 8 ms.
+[2020-05-12 22:54:38] (INFO): Closing instance. Ran for 37 seconds. Parsed 2 commands.
+[2020-05-12 23:02:27] (INFO): Started initializing Dungeon v6.2.0.
+[2020-05-12 23:02:28] (INFO): Finished making the window. Took 1536 ms.
+[2020-05-12 23:02:28] (INFO): Loaded 27 creature presets.
+[2020-05-12 23:02:28] (INFO): Loaded 62 item presets.
+[2020-05-12 23:02:28] (FINE): Added Potato to the inventory of Seth.
+[2020-05-12 23:02:28] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 23:02:28] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 23:02:28] (WARNING): Tried to block an already blocked direction.
+[2020-05-12 23:02:28] (INFO): Loaded 21 location presets.
+[2020-05-12 23:02:28] (INFO): Set the GameState field in Game to a GameState.
+[2020-05-12 23:02:28] (INFO): Signaled the window to start accepting commands.
+[2020-05-12 23:03:38] (FINE): "příkazy": started doInBackGround after 6 ms.
+[2020-05-12 23:03:38] (FINE): "příkazy": started renderTurn after 13 ms.
+[2020-05-12 23:03:38] (FINE): "příkazy": started processInput after 15 ms.
+[2020-05-12 23:03:38] (FINE): "příkazy": finished processInput after 56 ms.
+[2020-05-12 23:03:38] (INFO): Dosažené 45 úspěchy.
+[2020-05-12 23:03:38] (FINE): "příkazy": finished renderTurn after 62 ms.
+[2020-05-12 23:03:38] (FINE): "příkazy": finished doInBackGround after 62 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": started doInBackGround after 0 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": started renderTurn after 1 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": started processInput after 2 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": finished processInput after 7 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": finished renderTurn after 9 ms.
+[2020-05-12 23:03:47] (FINE): "proz Wh": finished doInBackGround after 11 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": started doInBackGround after 0 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": started renderTurn after 1 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": started processInput after 2 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": finished processInput after 37 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": finished renderTurn after 37 ms.
+[2020-05-12 23:03:55] (FINE): "prozkoumej": finished doInBackGround after 38 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": started processInput after 2 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": finished processInput after 3 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": finished renderTurn after 4 ms.
+[2020-05-12 23:04:04] (FINE): "okolí": finished doInBackGround after 6 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": started doInBackGround after 0 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": started renderTurn after 1 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": started processInput after 2 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": finished processInput after 3 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": finished renderTurn after 4 ms.
+[2020-05-12 23:04:16] (FINE): "prozkoumej Komodo Dragon": finished doInBackGround after 5 ms.
+[2020-05-12 23:04:21] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:04:21] (FINE): "okolí": started renderTurn after 1 ms.
+[2020-05-12 23:04:21] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:04:21] (FINE): "okolí": finished processInput after 3 ms.
+[2020-05-12 23:04:22] (FINE): "okolí": finished renderTurn after 4 ms.
+[2020-05-12 23:04:22] (FINE): "okolí": finished doInBackGround after 6 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": started doInBackGround after 0 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": started renderTurn after 1 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": started processInput after 2 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": finished processInput after 3 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": finished renderTurn after 3 ms.
+[2020-05-12 23:04:36] (FINE): "prozkoumej Komodo Dragon": finished doInBackGround after 5 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": started doInBackGround after 0 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": started renderTurn after 1 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": started processInput after 3 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": finished processInput after 8 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": finished renderTurn after 10 ms.
+[2020-05-12 23:04:48] (FINE): "příkazy pro": finished doInBackGround after 11 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": started processInput after 2 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": finished processInput after 3 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": finished renderTurn after 4 ms.
+[2020-05-12 23:04:55] (FINE): "příkazy": finished doInBackGround after 6 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": started doInBackGround after 0 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": started renderTurn after 1 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": started processInput after 2 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": finished processInput after 6 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": finished renderTurn after 7 ms.
+[2020-05-12 23:05:12] (FINE): "uložené": finished doInBackGround after 9 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": finished processInput after 2 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": finished renderTurn after 3 ms.
+[2020-05-12 23:05:16] (FINE): "příkazy": finished doInBackGround after 5 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": started doInBackGround after 0 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": started renderTurn after 1 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": started processInput after 1 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": finished processInput after 2 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": finished renderTurn after 2 ms.
+[2020-05-12 23:05:51] (FINE): "kouzla": finished doInBackGround after 3 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": started processInput after 3 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": finished processInput after 5 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": finished renderTurn after 7 ms.
+[2020-05-12 23:05:55] (FINE): "okolí": finished doInBackGround after 8 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": started renderTurn after 1 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": finished processInput after 7 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": finished renderTurn after 9 ms.
+[2020-05-12 23:06:04] (FINE): "výuka": finished doInBackGround after 10 ms.
+[2020-05-12 23:06:19] (FINE): "license": started doInBackGround after 0 ms.
+[2020-05-12 23:06:19] (FINE): "license": started renderTurn after 1 ms.
+[2020-05-12 23:06:19] (FINE): "license": started processInput after 1 ms.
+[2020-05-12 23:06:19] (FINE): "license": finished processInput after 2 ms.
+[2020-05-12 23:06:19] (FINE): "license": finished renderTurn after 2 ms.
+[2020-05-12 23:06:19] (FINE): "license": finished doInBackGround after 3 ms.
+[2020-05-12 23:06:23] (FINE): "licence": started doInBackGround after 0 ms.
+[2020-05-12 23:06:23] (FINE): "licence": started renderTurn after 0 ms.
+[2020-05-12 23:06:23] (FINE): "licence": started processInput after 1 ms.
+[2020-05-12 23:06:23] (FINE): "licence": finished processInput after 2 ms.
+[2020-05-12 23:06:23] (FINE): "licence": finished renderTurn after 3 ms.
+[2020-05-12 23:06:23] (FINE): "licence": finished doInBackGround after 5 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": started renderTurn after 1 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": finished processInput after 2 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": finished renderTurn after 3 ms.
+[2020-05-12 23:06:25] (FINE): "příkazy": finished doInBackGround after 4 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": started doInBackGround after 0 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": started renderTurn after 0 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": started processInput after 1 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": finished processInput after 12 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": finished renderTurn after 13 ms.
+[2020-05-12 23:06:40] (FINE): "wiki license": finished doInBackGround after 14 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": started doInBackGround after 0 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": started renderTurn after 1 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": started processInput after 1 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": finished processInput after 1 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": finished renderTurn after 2 ms.
+[2020-05-12 23:06:45] (FINE): "výuka": finished doInBackGround after 2 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": started processInput after 2 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": finished processInput after 22 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": finished renderTurn after 24 ms.
+[2020-05-12 23:07:33] (FINE): "mapa": finished doInBackGround after 25 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": finished processInput after 2 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": finished renderTurn after 2 ms.
+[2020-05-12 23:07:37] (FINE): "okolí": finished doInBackGround after 4 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": started doInBackGround after 0 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": started renderTurn after 1 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": started processInput after 1 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": finished processInput after 4 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": finished renderTurn after 6 ms.
+[2020-05-12 23:07:45] (FINE): "jdi S": finished doInBackGround after 7 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": finished processInput after 9 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": finished renderTurn after 11 ms.
+[2020-05-12 23:07:48] (FINE): "mapa": finished doInBackGround after 12 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": started processInput after 1 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": finished processInput after 2 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": finished renderTurn after 3 ms.
+[2020-05-12 23:07:51] (FINE): "jdi s": finished doInBackGround after 4 ms.
+[2020-05-12 23:08:01] (FINE): "seber axe": started doInBackGround after 0 ms.
+[2020-05-12 23:08:01] (FINE): "seber axe": started renderTurn after 0 ms.
+[2020-05-12 23:08:01] (FINE): "seber axe": started processInput after 1 ms.
+[2020-05-12 23:08:01] (FINE): Added Axe to the inventory of Seth.
+[2020-05-12 23:08:01] (FINE): "seber axe": finished processInput after 2 ms.
+[2020-05-12 23:08:01] (FINE): "seber axe": finished renderTurn after 3 ms.
+[2020-05-12 23:08:01] (FINE): "seber axe": finished doInBackGround after 6 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": finished processInput after 2 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": finished renderTurn after 2 ms.
+[2020-05-12 23:08:07] (FINE): "okolí": finished doInBackGround after 2 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": started renderTurn after 1 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": started processInput after 1 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": finished processInput after 2 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": finished renderTurn after 3 ms.
+[2020-05-12 23:08:11] (FINE): "jdi s": finished doInBackGround after 4 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": started renderTurn after 1 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": finished renderTurn after 9 ms.
+[2020-05-12 23:08:16] (FINE): "mapa": finished doInBackGround after 10 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": started processInput after 1 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": finished processInput after 2 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": finished renderTurn after 4 ms.
+[2020-05-12 23:08:19] (FINE): "jdi s": finished doInBackGround after 5 ms.
+[2020-05-12 23:08:22] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:08:22] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:08:22] (FINE): "jdi s": started processInput after 1 ms.
+[2020-05-12 23:08:22] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 23:08:22] (FINE): Added Dagger to the inventory of Cestovatel.
+[2020-05-12 23:08:22] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 23:08:22] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 23:08:22] (FINE): "jdi s": finished processInput after 14 ms.
+[2020-05-12 23:08:22] (FINE): "jdi s": finished renderTurn after 15 ms.
+[2020-05-12 23:08:22] (FINE): "jdi s": finished doInBackGround after 15 ms.
+[2020-05-12 23:08:37] (FINE): "seber stone": started doInBackGround after 0 ms.
+[2020-05-12 23:08:37] (FINE): "seber stone": started renderTurn after 0 ms.
+[2020-05-12 23:08:37] (FINE): "seber stone": started processInput after 1 ms.
+[2020-05-12 23:08:37] (FINE): Added Stone to the inventory of Seth.
+[2020-05-12 23:08:37] (FINE): "seber stone": finished processInput after 2 ms.
+[2020-05-12 23:08:37] (FINE): "seber stone": finished renderTurn after 2 ms.
+[2020-05-12 23:08:37] (FINE): "seber stone": finished doInBackGround after 2 ms.
+[2020-05-12 23:08:40] (FINE): "věci": started doInBackGround after 0 ms.
+[2020-05-12 23:08:40] (FINE): "věci": started renderTurn after 0 ms.
+[2020-05-12 23:08:40] (FINE): "věci": started processInput after 1 ms.
+[2020-05-12 23:08:40] (FINE): "věci": finished processInput after 7 ms.
+[2020-05-12 23:08:40] (FINE): "věci": finished renderTurn after 9 ms.
+[2020-05-12 23:08:40] (FINE): "věci": finished doInBackGround after 10 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": started processInput after 1 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": finished processInput after 6 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": finished renderTurn after 7 ms.
+[2020-05-12 23:08:46] (FINE): "mapa": finished doInBackGround after 8 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": finished processInput after 2 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": finished renderTurn after 3 ms.
+[2020-05-12 23:08:51] (FINE): "okolí": finished doInBackGround after 4 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": finished processInput after 1 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": finished renderTurn after 2 ms.
+[2020-05-12 23:08:55] (FINE): "příkazy": finished doInBackGround after 2 ms.
+[2020-05-12 23:09:01] (FINE): "věk": started doInBackGround after 0 ms.
+[2020-05-12 23:09:01] (FINE): "věk": started renderTurn after 0 ms.
+[2020-05-12 23:09:01] (FINE): "věk": started processInput after 1 ms.
+[2020-05-12 23:09:01] (FINE): "věk": finished processInput after 8 ms.
+[2020-05-12 23:09:01] (FINE): "věk": finished renderTurn after 10 ms.
+[2020-05-12 23:09:01] (FINE): "věk": finished doInBackGround after 11 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": finished processInput after 2 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": finished renderTurn after 3 ms.
+[2020-05-12 23:09:08] (FINE): "okolí": finished doInBackGround after 3 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": finished processInput after 1 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": finished renderTurn after 2 ms.
+[2020-05-12 23:09:52] (FINE): "příkazy": finished doInBackGround after 2 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": started doInBackGround after 0 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": started renderTurn after 0 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": started processInput after 1 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": finished processInput after 13 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": finished renderTurn after 14 ms.
+[2020-05-12 23:10:26] (FINE): "úspěchy": finished doInBackGround after 15 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": started processInput after 1 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": finished processInput after 1 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": finished renderTurn after 2 ms.
+[2020-05-12 23:10:30] (FINE): "okolí": finished doInBackGround after 2 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": started doInBackGround after 0 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": started renderTurn after 0 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": started processInput after 1 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": finished processInput after 2 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": finished renderTurn after 2 ms.
+[2020-05-12 23:10:36] (FINE): "farmář": finished doInBackGround after 3 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": finished processInput after 1 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": finished renderTurn after 1 ms.
+[2020-05-12 23:10:43] (FINE): "příkazy": finished doInBackGround after 2 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": started doInBackGround after 0 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": started renderTurn after 0 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": started processInput after 0 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": finished processInput after 1 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": finished renderTurn after 1 ms.
+[2020-05-12 23:10:56] (FINE): "kouzla": finished doInBackGround after 2 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": finished processInput after 2 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": finished renderTurn after 4 ms.
+[2020-05-12 23:11:00] (FINE): "příkazy": finished doInBackGround after 5 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": started doInBackGround after 0 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": started renderTurn after 0 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": started processInput after 0 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": finished processInput after 1 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": finished renderTurn after 2 ms.
+[2020-05-12 23:11:05] (FINE): "podmínky": finished doInBackGround after 3 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": finished processInput after 2 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": finished renderTurn after 4 ms.
+[2020-05-12 23:11:11] (FINE): "příkazy": finished doInBackGround after 6 ms.
+[2020-05-12 23:11:23] (FINE): "čas": started doInBackGround after 0 ms.
+[2020-05-12 23:11:23] (FINE): "čas": started renderTurn after 0 ms.
+[2020-05-12 23:11:23] (FINE): "čas": started processInput after 0 ms.
+[2020-05-12 23:11:23] (FINE): "čas": finished processInput after 1 ms.
+[2020-05-12 23:11:23] (FINE): "čas": finished renderTurn after 2 ms.
+[2020-05-12 23:11:23] (FINE): "čas": finished doInBackGround after 2 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": started processInput after 1 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": finished processInput after 1 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": finished renderTurn after 2 ms.
+[2020-05-12 23:11:27] (FINE): "příkazy": finished doInBackGround after 2 ms.
+[2020-05-12 23:11:33] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:11:33] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:11:33] (FINE): "jdi s": started processInput after 1 ms.
+[2020-05-12 23:11:33] (FINE): Added Enchanted Dagger to the inventory of Cestovatel.
+[2020-05-12 23:11:33] (FINE): Added Dagger to the inventory of Cestovatel.
+[2020-05-12 23:11:33] (FINE): Added Dagger to the inventory of Cestovatel.
+[2020-05-12 23:11:33] (FINE): "jdi s": finished processInput after 3 ms.
+[2020-05-12 23:11:33] (FINE): "jdi s": finished renderTurn after 4 ms.
+[2020-05-12 23:11:33] (FINE): "jdi s": finished doInBackGround after 6 ms.
+[2020-05-12 23:11:39] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:11:39] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:11:39] (FINE): "jdi s": started processInput after 0 ms.
+[2020-05-12 23:11:39] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 23:11:39] (FINE): "jdi s": finished processInput after 1 ms.
+[2020-05-12 23:11:39] (FINE): "jdi s": finished renderTurn after 1 ms.
+[2020-05-12 23:11:39] (FINE): "jdi s": finished doInBackGround after 2 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": started doInBackGround after 0 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": started renderTurn after 0 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": started processInput after 0 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": finished processInput after 7 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": finished renderTurn after 8 ms.
+[2020-05-12 23:11:42] (FINE): "mapa": finished doInBackGround after 9 ms.
+[2020-05-12 23:11:48] (FINE): "jdi s": started doInBackGround after 0 ms.
+[2020-05-12 23:11:48] (FINE): "jdi s": started renderTurn after 0 ms.
+[2020-05-12 23:11:48] (FINE): "jdi s": started processInput after 0 ms.
+[2020-05-12 23:11:48] (FINE): Added Club to the inventory of Zombie.
+[2020-05-12 23:11:48] (FINE): "jdi s": finished processInput after 2 ms.
+[2020-05-12 23:11:48] (FINE): "jdi s": finished renderTurn after 3 ms.
+[2020-05-12 23:11:48] (FINE): "jdi s": finished doInBackGround after 4 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": started doInBackGround after 0 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": started renderTurn after 0 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": started processInput after 0 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": finished processInput after 1 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": finished renderTurn after 1 ms.
+[2020-05-12 23:12:02] (FINE): "prozkoumej staff": finished doInBackGround after 2 ms.
+[2020-05-12 23:12:06] (FINE): "seber staff": started doInBackGround after 0 ms.
+[2020-05-12 23:12:06] (FINE): "seber staff": started renderTurn after 0 ms.
+[2020-05-12 23:12:06] (FINE): "seber staff": started processInput after 0 ms.
+[2020-05-12 23:12:06] (FINE): Added Staff to the inventory of Seth.
+[2020-05-12 23:12:06] (FINE): "seber staff": finished processInput after 1 ms.
+[2020-05-12 23:12:06] (FINE): "seber staff": finished renderTurn after 1 ms.
+[2020-05-12 23:12:06] (FINE): "seber staff": finished doInBackGround after 1 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": started processInput after 0 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": finished processInput after 1 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": finished renderTurn after 1 ms.
+[2020-05-12 23:12:12] (FINE): "okolí": finished doInBackGround after 1 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": started processInput after 0 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": finished processInput after 1 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": finished renderTurn after 3 ms.
+[2020-05-12 23:12:18] (FINE): "příkazy": finished doInBackGround after 4 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": started doInBackGround after 0 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": started renderTurn after 0 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": started processInput after 0 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": finished processInput after 1 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": finished renderTurn after 2 ms.
+[2020-05-12 23:12:20] (FINE): "okolí": finished doInBackGround after 2 ms.
+[2020-05-12 23:12:37] (FINE): "seber spear": started doInBackGround after 0 ms.
+[2020-05-12 23:12:37] (FINE): "seber spear": started renderTurn after 0 ms.
+[2020-05-12 23:12:37] (FINE): "seber spear": started processInput after 1 ms.
+[2020-05-12 23:12:37] (FINE): Added Spear to the inventory of Seth.
+[2020-05-12 23:12:37] (FINE): "seber spear": finished processInput after 2 ms.
+[2020-05-12 23:12:37] (FINE): "seber spear": finished renderTurn after 2 ms.
+[2020-05-12 23:12:37] (FINE): "seber spear": finished doInBackGround after 3 ms.
+[2020-05-12 23:12:43] (FINE): "věci": started doInBackGround after 0 ms.
+[2020-05-12 23:12:43] (FINE): "věci": started renderTurn after 0 ms.
+[2020-05-12 23:12:43] (FINE): "věci": started processInput after 1 ms.
+[2020-05-12 23:12:43] (FINE): "věci": finished processInput after 4 ms.
+[2020-05-12 23:12:43] (FINE): "věci": finished renderTurn after 6 ms.
+[2020-05-12 23:12:43] (FINE): "věci": finished doInBackGround after 7 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": started doInBackGround after 0 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": started renderTurn after 0 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": started processInput after 1 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": finished processInput after 2 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": finished renderTurn after 2 ms.
+[2020-05-12 23:12:52] (FINE): "prozkoumej spear": finished doInBackGround after 3 ms.
+[2020-05-12 23:13:02] (FINE): "věci": started doInBackGround after 0 ms.
+[2020-05-12 23:13:02] (FINE): "věci": started renderTurn after 0 ms.
+[2020-05-12 23:13:02] (FINE): "věci": started processInput after 0 ms.
+[2020-05-12 23:13:02] (FINE): "věci": finished processInput after 2 ms.
+[2020-05-12 23:13:02] (FINE): "věci": finished renderTurn after 2 ms.
+[2020-05-12 23:13:02] (FINE): "věci": finished doInBackGround after 2 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": started doInBackGround after 0 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": started renderTurn after 0 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": started processInput after 0 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": finished processInput after 1 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": finished renderTurn after 2 ms.
+[2020-05-12 23:13:17] (FINE): "nasaď ace": finished doInBackGround after 2 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": started doInBackGround after 0 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": started renderTurn after 0 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": started processInput after 0 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": finished processInput after 1 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": finished renderTurn after 2 ms.
+[2020-05-12 23:13:23] (FINE): "nasaď axe": finished doInBackGround after 2 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": started doInBackGround after 0 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": started renderTurn after 0 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": started processInput after 0 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": finished processInput after 4 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": finished renderTurn after 5 ms.
+[2020-05-12 23:13:36] (FINE): "příkazy": finished doInBackGround after 6 ms.
+[2020-05-12 23:13:48] (FINE): "stav": started doInBackGround after 0 ms.
+[2020-05-12 23:13:48] (FINE): "stav": started renderTurn after 0 ms.
+[2020-05-12 23:13:48] (FINE): "stav": started processInput after 0 ms.
+[2020-05-12 23:13:48] (FINE): "stav": finished processInput after 4 ms.
+[2020-05-12 23:13:48] (FINE): "stav": finished renderTurn after 6 ms.
+[2020-05-12 23:13:48] (FINE): "stav": finished doInBackGround after 6 ms.
+[2020-05-12 23:14:07] (FINE): "skonči": started doInBackGround after 0 ms.
+[2020-05-12 23:14:07] (FINE): "skonči": started renderTurn after 0 ms.
+[2020-05-12 23:14:07] (FINE): "skonči": started processInput after 0 ms.
+[2020-05-12 23:14:09] (INFO): Uloženo 95.4 KiB za 72 ms.
+[2020-05-12 23:14:09] (INFO): Closing instance. Ran for 11 minutes. Parsed 62 commands.
