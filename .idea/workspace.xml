@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="change README.md">
+    <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="cz language for enchantments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/enchantments.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/enchantments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+    </option>
   </component>
   <component name="RunManager" selected="Application.labyrint">
     <configuration name="labyrint" type="Application" factoryName="Application">
@@ -110,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589365229337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cz language for enchantments">
+      <created>1589368492584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589368492584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +143,8 @@
     </ignored-roots>
     <MESSAGE value="Czech version" />
     <MESSAGE value="change README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="change README.md" />
+    <MESSAGE value="cz language for enchantments" />
+    <option name="LAST_COMMIT_MESSAGE" value="cz language for enchantments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="468" y="193" key="#Project_Structure" timestamp="1588695620982">
@@ -155,30 +168,30 @@
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
     <state x="768" y="373" key="FileChooserDialogImpl/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588686606857" />
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1589318055233">
-      <screen x="40" y="23" width="1400" height="877" />
-    </state>
-    <state width="1838" height="194" key="GridCell.Tab.0.bottom/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189619" />
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
-    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1589318055232">
-      <screen x="40" y="23" width="1400" height="877" />
-    </state>
-    <state width="1838" height="194" key="GridCell.Tab.0.center/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189618" />
-    <state width="1358" height="194" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
-    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1589318055232">
-      <screen x="40" y="23" width="1400" height="877" />
-    </state>
-    <state width="1838" height="194" key="GridCell.Tab.0.left/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189617" />
-    <state width="1358" height="194" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
-    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1589318055233">
-      <screen x="40" y="23" width="1400" height="877" />
-    </state>
-    <state width="1838" height="194" key="GridCell.Tab.0.right/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315189618" />
-    <state width="1358" height="194" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
-    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor" timestamp="1589363781404">
+    <state width="1838" height="280" key="GridCell.Tab.0.bottom" timestamp="1589368539300">
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
-    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363781404" />
+    <state width="1838" height="280" key="GridCell.Tab.0.bottom/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539300" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
+    <state width="1838" height="280" key="GridCell.Tab.0.center" timestamp="1589368539299">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state width="1838" height="280" key="GridCell.Tab.0.center/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539299" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
+    <state width="1838" height="280" key="GridCell.Tab.0.left" timestamp="1589368539298">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state width="1838" height="280" key="GridCell.Tab.0.left/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539298" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
+    <state width="1838" height="280" key="GridCell.Tab.0.right" timestamp="1589368539300">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state width="1838" height="280" key="GridCell.Tab.0.right/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539300" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
+    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor" timestamp="1589368525689">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368525689" />
     <state x="40" y="23" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1589300977629" />
     <state x="580" y="347" key="Vcs.Push.Dialog.v2" timestamp="1589365407344">
       <screen x="40" y="23" width="1880" height="1177" />
@@ -206,6 +219,10 @@
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
     <state x="802" y="507" key="git4idea.remote.GitConfigureRemotesDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363640379" />
+    <state x="645" y="286" width="670" height="675" key="run.anything.popup" timestamp="1589368532055">
+      <screen x="40" y="23" width="1880" height="1177" />
+    </state>
+    <state x="645" y="286" width="670" height="675" key="run.anything.popup/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368532055" />
     <state x="818" y="409" key="svn.repositoryBrowser" timestamp="1589355939654">
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
