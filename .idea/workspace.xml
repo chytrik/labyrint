@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="Czech version">
+    <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="change README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/enchantments.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/enchantments.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589363866392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change README.md">
+      <created>1589365229337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589365229337</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +130,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Czech version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Czech version" />
+    <MESSAGE value="change README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="change README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="468" y="193" key="#Project_Structure" timestamp="1588695620982">
@@ -172,10 +180,10 @@
     </state>
     <state x="40" y="23" width="1880" height="1177" key="SettingsEditor/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363781404" />
     <state x="40" y="23" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1589300977629" />
-    <state x="580" y="347" key="Vcs.Push.Dialog.v2" timestamp="1589364226539">
+    <state x="580" y="347" key="Vcs.Push.Dialog.v2" timestamp="1589365407344">
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
-    <state x="580" y="347" key="Vcs.Push.Dialog.v2/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589364226539" />
+    <state x="580" y="347" key="Vcs.Push.Dialog.v2/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589365407344" />
     <state x="428" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589314779150">
       <screen x="40" y="23" width="1880" height="1177" />
     </state>
