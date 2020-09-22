@@ -3,8 +3,6 @@
 Labyrint je textová role-play hra s otevřeným světem. 
 Jedná se o českou mutaci originální textové hry, která je dostupná na Git Hub. 
 
-Viz zde https://github.com/bernardosulzbach/dungeon
-
 #### **Česká mutace** vznikla v rámci výuky a cvičení, kde hlavním tématem je
 - umět použít Git / VCS systémy
 - seznámit se build projektem většího rozsahu a použít Maven
