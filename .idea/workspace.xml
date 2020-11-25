@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,7 +24,143 @@
   <component name="ChangeListManager">
     <list default="true" id="374bb9c5-6bb2-4bca-afee-2523377ff2ae" name="Default Changelist" comment="cz language for enchantments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/enchantments.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/enchantments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-checker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enchantments.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enchantments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/AchievementTracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/AchievementTracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleStatisticsQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleStatisticsQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleStatisticsRequirement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/achievements/BattleStatisticsRequirement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandLimits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandLimits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$29.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$29.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$30.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$30.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$31.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$31.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$32.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$36.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$37.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$38.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$38.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$39.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$40.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$41.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$42.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$43.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$44.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$45.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$45.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$46.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$47.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$47.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$48.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/CommandSets$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/DebugWaitParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/DebugWaitParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/IssuedCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/IssuedCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/IssuedCommandProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/commands/IssuedCommandProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser$InvalidMultiplierException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser$InvalidMultiplierException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser$InvalidUnitException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser$InvalidUnitException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/DungeonTimeParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/Duration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/Duration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/TimeStringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/date/TimeStringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/EnchantmentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/EnchantmentFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/TagSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/TagSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/Weight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/Weight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/BatAttackAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/BatAttackAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/ColoredString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/ColoredString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CorpseItemPresetFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CorpseItemPresetFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/Creature.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/Creature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CreatureFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CreatureFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CreatureHealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CreatureHealth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CritterAttackAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/CritterAttackAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DateOfBirthGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DateOfBirthGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DeathHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DeathHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/Dropper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/Dropper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DummyAttackAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/DummyAttackAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/JsonCreaturePresetFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/JsonCreaturePresetFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/OrcAttackAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/OrcAttackAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/SimpleAttackAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/creatures/SimpleAttackAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/BookComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/BookComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/BreakageHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/BreakageHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/DrinkableComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/DrinkableComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/ItemFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/ItemFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/ItemIntegrity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/ItemIntegrity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/UniquenessRestrictions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/entity/items/UniquenessRestrictions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/BaseName.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/BaseName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/ColoredString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/ColoredString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/DungeonCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/DungeonCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/DungeonString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/DungeonString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/LocationDescription.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/LocationDescription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/NameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/NameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/Random.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/Random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/WorldGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/game/WorldGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/gui/GameWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/gui/GameWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/JsonObjectFactory$IllegalFilenameExtensionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/JsonObjectFactory$IllegalFilenameExtensionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/JsonObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/JsonObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/ResourceNameResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/ResourceNameResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/Version$VersionFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/Version$VersionFormatException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/Version.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/io/Version.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/IterationLimits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/IterationLimits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapLegend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapLegend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapSymbol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapSymbol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapSymbolFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapSymbolFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/map/WorldMapWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/schema/rules/EnumJsonRule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/schema/rules/EnumJsonRule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/schema/rules/IdSetJsonRule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/schema/rules/IdSetJsonRule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/spells/SpellData$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/BattleRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/BattleRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/BattleStatistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/BattleStatistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/CauseOfDeath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/stats/CauseOfDeath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/DungeonMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/DungeonMath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/NonNegativeInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/NonNegativeInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/Percentage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/Percentage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/library/AutomaticShuffledStringLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/util/library/AutomaticShuffledStringLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/wiki/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/wiki/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/world/Weather.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/world/Weather.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/world/WeatherConditionVisibilityCriterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/mafagafogigante/labyrint/world/WeatherConditionVisibilityCriterion.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +169,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1bUSr9Nj4apU6jGg8UvyzC0vqGh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,7 +235,7 @@
       <item itemvalue="Maven.labyrint" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="$USER_HOME$/Downloads" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/Downloads/cs.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="1" Folder0="$USER_HOME$/Downloads" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/Downloads/cs.dic" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -122,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589368492584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pridani ignore list">
+      <created>1606298492173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606298492173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,88 +297,33 @@
     <MESSAGE value="Czech version" />
     <MESSAGE value="change README.md" />
     <MESSAGE value="cz language for enchantments" />
-    <option name="LAST_COMMIT_MESSAGE" value="cz language for enchantments" />
+    <MESSAGE value="pridani ignore list" />
+    <option name="LAST_COMMIT_MESSAGE" value="pridani ignore list" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="193" key="#Project_Structure" timestamp="1588695620982">
-      <screen x="40" y="23" width="1880" height="1177" />
+    <state width="1878" height="226" key="GridCell.Tab.0.bottom" timestamp="1606299199045">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="468" y="193" key="#Project_Structure/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588695620982" />
-    <state x="251" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589293268784">
-      <screen x="40" y="23" width="1400" height="877" />
+    <state width="1878" height="226" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1606299199045" />
+    <state width="1878" height="226" key="GridCell.Tab.0.center" timestamp="1606299199045">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="323" y="445" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589274540331" />
-    <state x="251" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/40.23.1400.877@40.23.1400.877" timestamp="1589293268784" />
-    <state x="672" y="420" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588685633755">
-      <screen x="40" y="23" width="1880" height="1177" />
+    <state width="1878" height="226" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1606299199045" />
+    <state width="1878" height="226" key="GridCell.Tab.0.left" timestamp="1606299199044">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="672" y="420" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588685633755" />
-    <state x="521" y="370" width="1141" height="721" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588695471029">
-      <screen x="40" y="23" width="1880" height="1177" />
+    <state width="1878" height="226" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1606299199044" />
+    <state width="1878" height="226" key="GridCell.Tab.0.right" timestamp="1606299199045">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="521" y="370" width="1141" height="721" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588695471029" />
-    <state x="768" y="373" key="FileChooserDialogImpl" timestamp="1588686606857">
-      <screen x="40" y="23" width="1880" height="1177" />
+    <state width="1878" height="226" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1606299199045" />
+    <state x="798" y="473" key="VCS.EditChangelistDialog" timestamp="1606298354639">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="768" y="373" key="FileChooserDialogImpl/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1588686606857" />
-    <state width="1838" height="280" key="GridCell.Tab.0.bottom" timestamp="1589368539300">
-      <screen x="40" y="23" width="1880" height="1177" />
+    <state x="798" y="473" key="VCS.EditChangelistDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1606298354639" />
+    <state x="457" y="200" key="new project wizard" timestamp="1606298726830">
+      <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1838" height="280" key="GridCell.Tab.0.bottom/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539300" />
-    <state width="1358" height="194" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
-    <state width="1838" height="280" key="GridCell.Tab.0.center" timestamp="1589368539299">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state width="1838" height="280" key="GridCell.Tab.0.center/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539299" />
-    <state width="1358" height="194" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
-    <state width="1838" height="280" key="GridCell.Tab.0.left" timestamp="1589368539298">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state width="1838" height="280" key="GridCell.Tab.0.left/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539298" />
-    <state width="1358" height="194" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1589318055232" />
-    <state width="1838" height="280" key="GridCell.Tab.0.right" timestamp="1589368539300">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state width="1838" height="280" key="GridCell.Tab.0.right/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368539300" />
-    <state width="1358" height="194" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1589318055233" />
-    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor" timestamp="1589368525689">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="40" y="23" width="1880" height="1177" key="SettingsEditor/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368525689" />
-    <state x="40" y="23" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1589300977629" />
-    <state x="580" y="347" key="Vcs.Push.Dialog.v2" timestamp="1589365407344">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="580" y="347" key="Vcs.Push.Dialog.v2/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589365407344" />
-    <state x="428" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589314779150">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="428" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589314779150" />
-    <state x="329" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/40.23.1400.877@40.23.1400.877" timestamp="1589296074955" />
-    <state x="781" y="528" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589363525844">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="781" y="528" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363525844" />
-    <state x="114" y="23" width="1230" height="685" key="find.popup" timestamp="1589317326081">
-      <screen x="40" y="23" width="1400" height="877" />
-    </state>
-    <state x="553" y="90" width="1052" height="919" key="find.popup/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589315177580" />
-    <state x="114" y="23" width="1230" height="685" key="find.popup/40.23.1400.877@40.23.1400.877" timestamp="1589317326081" />
-    <state x="782" y="461" key="git4idea.rebase.GitRebaseDialog" timestamp="1589363627758">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="782" y="461" key="git4idea.rebase.GitRebaseDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363627758" />
-    <state x="802" y="507" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589363640379">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="802" y="507" key="git4idea.remote.GitConfigureRemotesDialog/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589363640379" />
-    <state x="645" y="286" width="670" height="675" key="run.anything.popup" timestamp="1589368532055">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="645" y="286" width="670" height="675" key="run.anything.popup/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589368532055" />
-    <state x="818" y="409" key="svn.repositoryBrowser" timestamp="1589355939654">
-      <screen x="40" y="23" width="1880" height="1177" />
-    </state>
-    <state x="818" y="409" key="svn.repositoryBrowser/1920.23.1440.877/40.23.1880.1177@40.23.1880.1177" timestamp="1589355939654" />
+    <state x="457" y="200" key="new project wizard/0.0.1920.1200@0.0.1920.1200" timestamp="1606298726830" />
   </component>
 </project>

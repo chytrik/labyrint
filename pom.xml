@@ -10,25 +10,13 @@
 
     <packaging>jar</packaging>
     <name>Labyrint</name>
-    <description>Textově založené RPG s otevřeným světem vytvořené pomocí Java. Originál se jmenuje Dungeon.</description>
-    <url>https://github.com/mafagafogigante/dungeon</url>
+    <description>Textově založené RPG s otevřeným světem vytvořené pomocí Java</description>
 
-    <issueManagement>
-        <url>https://github.com/mafagafogigante/dungeon/issues</url>
-        <system>GitHub Issues</system>
-    </issueManagement>
-
-    <groupId>org.mafagafogigante.labyrint</groupId>
+    <groupId>labyrint</groupId>
     <artifactId>labyrint</artifactId>
-    <version>v6.2.0</version>
+    <version>v7.0</version>
 
     <developers>
-        <developer>
-            <email>mafagafogigante@gmail.com</email>
-            <name>Bernardo Sulzbach</name>
-            <url>http://mafagafogigante.org/</url>
-            <id>mafagafogigante</id>
-        </developer>
         <developer>
             <name>česká mutace - Patrik Plachý</name>
             <id>plch</id>
@@ -128,7 +116,7 @@
                         <configuration>
                             <configLocation>checkstyle.xml</configLocation>
                             <encoding>UTF-8</encoding>
-                            <violationSeverity>warning</violationSeverity>
+                            <violationSeverity>error</violationSeverity>
                             <includeTestSourceDirectory>true</includeTestSourceDirectory>
                         </configuration>
                         <goals>

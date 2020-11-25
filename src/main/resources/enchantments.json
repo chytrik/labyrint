@@ -2,7 +2,7 @@
   "enchantments": [
     {
       "id": "CORROSIVE_LASH",
-      "name": "Leptavé mrknutí",
+      "name": "Leptavé šlehnutí",
       "damage": {
         "type": "ACID",
         "amount": 5
@@ -10,7 +10,7 @@
     },
     {
       "id": "FREEZING_LASH",
-      "name": "Mrznoucí mrknutí",
+      "name": "Mrznoucí šlehnutí",
       "damage": {
         "type": "COLD",
         "amount": 5
@@ -18,7 +18,7 @@
     },
     {
       "id": "SHOCKING_LASH",
-      "name": "Děsící mrknutí",
+      "name": "Děsící šlehnutí",
       "damage": {
         "type": "ELECTRICITY",
         "amount": 5
@@ -26,7 +26,7 @@
     },
     {
       "id": "BURNING_LASH",
-      "name": "Spalující mrknutí",
+      "name": "Spalující šlehnutí",
       "damage": {
         "type": "FIRE",
         "amount": 5
@@ -34,7 +34,7 @@
     },
     {
       "id": "POISONING_LASH",
-      "name": "Otrávené mrknutí",
+      "name": "Otrávené šlehnutí",
       "damage": {
         "type": "POISON",
         "amount": 5
@@ -42,7 +42,7 @@
     },
     {
       "id": "THUNDERING_LASH",
-      "name": "Hromové mrknutí",
+      "name": "Hromové šlehnutí",
       "damage": {
         "type": "SONIC",
         "amount": 5
